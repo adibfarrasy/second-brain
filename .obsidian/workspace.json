@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "2 Projects/Backlogs/Try NixOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "2 Projects/Backlogs/Try NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "2 Projects/Backlogs/Try NixOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Event Storming.md"
+                "file": "2 Projects/Backlogs/Try NixOS.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
+    "1 Inbox/Event Storming.md",
+    "2 Projects/Backlogs/Try NixOS.md",
     "Daily Notes/30 Jul 2023.md",
     "4 Resources/Fleeting Notes.md",
     "4 Resources/LinkedIn Contents.md",
     "Templates/Fleeting Notes.md",
     "Templates/Daily Template.md",
     "Templates",
-    "1 Inbox/Event Storming.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "Obsidian.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
@@ -180,7 +181,6 @@
     "Software Engineering.md",
     "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
-    "2 Projects/Backlogs/Linux from Scratch.md",
     "Daily Notes",
     "2 Projects/Backlogs",
     "0 Todos",

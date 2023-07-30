@@ -1,0 +1,1 @@
+I'm convinced, it's the coolest thing ever. single config file for everything, virtual shell environment for testing packages, it has its own package too.
