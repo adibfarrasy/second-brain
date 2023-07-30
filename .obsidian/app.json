@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets",
   "trashOption": "none",
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }

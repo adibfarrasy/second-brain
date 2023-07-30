@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "file": "Daily Notes/30 Jul 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "file": "Daily Notes/30 Jul 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "file": "Daily Notes/30 Jul 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md"
+                "file": "Daily Notes/30 Jul 2023.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "d1eb2e2229709cd8",
   "lastOpenFiles": [
+    "1 Inbox/Event Storming.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "Obsidian.md",
+    "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Go Profiling.md",
     "2 Projects/Backlogs/Security Tasklist.md",
-    "Obsidian.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/Event Storming.md",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
     "Pasted image 20230730153857.png",
@@ -176,7 +177,6 @@
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
-    "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "3 Areas/Management/The Ideal Team Player.md",
     "Daily Notes",
