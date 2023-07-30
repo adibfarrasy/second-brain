@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2f4b7a82e4fcedc8",
+        "id": "bc808507b87d388e",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6d54c3240d790b",
+            "id": "d9f08b1400a6fd00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 Inbox/Event Storming.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Inbox/Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 Inbox/Event Storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 Inbox/Event Storming.md"
+              }
             }
           }
         ],
@@ -139,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae6d54c3240d790b",
+  "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
     "Daily Notes/30 Jul 2023.md",
     "4 Resources/Fleeting Notes.md",
