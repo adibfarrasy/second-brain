@@ -1,4 +1,3 @@
----
-Tags:
-Type: [[Fleeting Notes]]
----
+> Time: {{time}}
+> Tags:
+> Type: [[Fleeting Notes]]

@@ -11,12 +11,8 @@
             "id": "ae6d54c3240d790b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Resources/Fleeting Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Resources/Fleeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Resources/Fleeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4 Resources/Fleeting Notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,6 +143,7 @@
   "lastOpenFiles": [
     "Daily Notes/30 Jul 2023.md",
     "4 Resources/Fleeting Notes.md",
+    "4 Resources/LinkedIn Contents.md",
     "Templates/Fleeting Notes.md",
     "Templates/Daily Template.md",
     "Templates",
@@ -180,7 +173,6 @@
     "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
-    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "Daily Notes",
     "2 Projects/Backlogs",
     "0 Todos",
