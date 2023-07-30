@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a363b94ceb3cdcb2",
+        "id": "2f4b7a82e4fcedc8",
         "type": "tabs",
         "children": [
           {
-            "id": "d1eb2e2229709cd8",
+            "id": "ae6d54c3240d790b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/30 Jul 2023.md",
+                "file": "4 Resources/Fleeting Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/30 Jul 2023.md",
+                "file": "4 Resources/Fleeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/30 Jul 2023.md",
+                "file": "4 Resources/Fleeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/30 Jul 2023.md"
+                "file": "4 Resources/Fleeting Notes.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1eb2e2229709cd8",
+  "active": "ae6d54c3240d790b",
   "lastOpenFiles": [
+    "Daily Notes/30 Jul 2023.md",
+    "4 Resources/Fleeting Notes.md",
+    "Templates/Fleeting Notes.md",
+    "Templates/Daily Template.md",
+    "Templates",
     "1 Inbox/Event Storming.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "Obsidian.md",
@@ -163,7 +168,6 @@
     "Pasted image 20230730152854.png",
     "3 Areas/Management/The Making of a Manager.md",
     "2 Projects/Backlogs/Infrastructure as Code.md",
-    "Daily Notes/30 Jul 2023.md",
     "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
     "0 Todos/Todos.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
@@ -177,8 +181,6 @@
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
-    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
-    "3 Areas/Management/The Ideal Team Player.md",
     "Daily Notes",
     "2 Projects/Backlogs",
     "0 Todos",
@@ -186,7 +188,6 @@
     "3 Areas/Software Engineering/Craft",
     "3 Areas/Software Engineering/Design",
     "3 Areas/Management",
-    "3 Areas/Software Engineering",
     "Untitled.canvas"
   ]
 }

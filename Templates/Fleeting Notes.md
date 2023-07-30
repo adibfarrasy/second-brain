@@ -1,0 +1,4 @@
+---
+Tags:
+Type: [[Fleeting Notes]]
+---
