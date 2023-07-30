@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Try NixOS.md",
+                "file": "1 Inbox/Event Storming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Try NixOS.md",
+                "file": "1 Inbox/Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Try NixOS.md",
+                "file": "1 Inbox/Event Storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Try NixOS.md"
+                "file": "1 Inbox/Event Storming.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "1 Inbox/Event Storming.md",
     "2 Projects/Backlogs/Try NixOS.md",
+    "1 Inbox/Event Storming.md",
     "Daily Notes/30 Jul 2023.md",
     "4 Resources/Fleeting Notes.md",
     "4 Resources/LinkedIn Contents.md",
