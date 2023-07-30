@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c1d6fb39ecc40e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "a363b94ceb3cdcb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1eb2e2229709cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e46bc94421b34ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "badc50acb5ec3e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe8c16178042832",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "500fd0594138adff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14f06d8665443fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "856737007a251714",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcdc8e80d9c15d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875478ad9d346d1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f6eaf5f28c3a171",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cb2add1c03f47da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd485392c978e314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1eb2e2229709cd8",
+  "lastOpenFiles": [
+    "2 Projects/Backlogs/Go Profiling.md",
+    "2 Projects/Backlogs/Security Tasklist.md",
+    "Obsidian.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Event Storming.md",
+    "Assets/Pasted image 20230730153951.png",
+    "Assets",
+    "Pasted image 20230730153857.png",
+    "2 Projects/Backlogs/IoT in Rust.md",
+    "Pasted image 20230730152854.png",
+    "3 Areas/Management/The Making of a Manager.md",
+    "2 Projects/Backlogs/Infrastructure as Code.md",
+    "Daily Notes/30 Jul 2023.md",
+    "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
+    "0 Todos/Todos.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/Computer Science Tasklist.md",
+    "2 Projects/Backlogs/Microservice Tasklist.md",
+    "2 Projects/Backlogs/Networking Tasklist.md",
+    "2 Projects/Backlogs/Engineering Tasklists",
+    "99 Archives/Programming Language Tasklist pt 1.md",
+    "Software Engineering.md",
+    "2 Projects/Backlogs/Infrastructure Tasklist.md",
+    "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+    "2 Projects/Backlogs/Linux from Scratch.md",
+    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
+    "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "3 Areas/Management/The Ideal Team Player.md",
+    "Daily Notes",
+    "2 Projects/Backlogs",
+    "0 Todos",
+    "2 Projects",
+    "3 Areas/Software Engineering/Craft",
+    "3 Areas/Software Engineering/Design",
+    "3 Areas/Management",
+    "3 Areas/Software Engineering",
+    "Untitled.canvas"
+  ]
+}
