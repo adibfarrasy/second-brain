@@ -1,5 +1,4 @@
 ---
-title: API Testing Tool in Terminal
 difficulty: Medium
 ---
 #todo 

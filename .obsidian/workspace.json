@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Resources/LinkedIn Contents.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Resources/LinkedIn Contents.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Resources/LinkedIn Contents.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Resources/LinkedIn Contents.md"
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "4 Resources/LinkedIn Contents.md",
+    "1 Inbox/Todos.md",
     "4 Resources/Fleeting Notes.md",
     "4 Resources/4.99 About Second Brain/12 Prompt Questions.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
@@ -167,7 +170,6 @@
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Go Profiling.md",
     "2 Projects/Backlogs/Security Tasklist.md",
-    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
     "Pasted image 20230730153857.png",
@@ -177,9 +179,7 @@
     "2 Projects/Backlogs/Infrastructure as Code.md",
     "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
     "0 Todos/Todos.md",
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
-    "2 Projects/Backlogs/Microservice Tasklist.md",
     "2 Projects/Backlogs/Engineering Tasklists",
     "Daily Notes",
     "2 Projects/Backlogs",

@@ -1,6 +1,8 @@
-#todo 
+---
+difficulty: Hard
+---
 
-Difficulty: Hard
+#todo 
 
 - [ ] research: how people make wireless keyboards?
 - [ ] research: how to retrofit Rust to C/C++ code?

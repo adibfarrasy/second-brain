@@ -16,9 +16,9 @@ sorted by difficulties
 [[Design My Own Wireless Split Keyboard, in Rust]]
 
 ```dataview
-list title
-from "2 Projects/Backlogs"
-where difficulty = "Medium"
+table difficulty
+where difficulty != null
+sort difficulty
 ```
 
 
