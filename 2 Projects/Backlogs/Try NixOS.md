@@ -1,1 +1,1 @@
-I'm convinced, it's the coolest thing ever. single config file for everything, virtual shell environment for testing packages, it has its own package too.
+I'm convinced, it's the coolest thing ever as far as Linux distro goes. single config file for everything, virtual shell environment for testing packages, it has its own package too.

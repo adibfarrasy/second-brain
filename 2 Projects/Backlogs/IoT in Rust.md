@@ -1,6 +1,8 @@
-#todo 
+---
+difficulty: Easy
+---
 
-Difficulty: Easy
+#todo 
 
 - [ ] get the 3D printer to run again
 - [ ] get the STL for some cool clock design & print it

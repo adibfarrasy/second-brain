@@ -1,6 +1,8 @@
-#todo 
+---
+difficulty: Medium
+---
 
-Difficulty: Medium
+#todo 
 
 alternatively, in Neovim instead of in terminal
 
