@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md"
+                "file": "4 Resources/LinkedIn Contents.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "4 Resources/LinkedIn Contents.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "4 Resources/LinkedIn Contents.md",
     "4 Resources/Fleeting Notes.md",
     "4 Resources/4.99 About Second Brain/12 Prompt Questions.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
