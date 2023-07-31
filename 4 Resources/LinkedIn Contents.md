@@ -16,10 +16,11 @@ sorted by difficulties
 [[Design My Own Wireless Split Keyboard, in Rust]]
 
 ```dataview
-table difficulty
-from "2\ Projects/Backlogs"
+list title
+from "2 Projects/Backlogs"
 where difficulty = "Medium"
 ```
+
 
 
 
