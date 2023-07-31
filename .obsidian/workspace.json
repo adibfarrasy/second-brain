@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Reflect on How Far You've Come.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Reflect on How Far You've Come.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Reflect on How Far You've Come.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Reflect on How Far You've Come.md"
+                "file": "4 Resources/LinkedIn Contents.md"
               }
             }
           }
@@ -149,15 +149,20 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "4 Resources/LinkedIn Contents.md",
+    "4 Resources/Fleeting Notes.md",
+    "4 Resources/4.99 About Second Brain/12 Prompt Questions.md",
+    "3 Areas/Software Engineering/Design/Database Normalization.md",
+    "3 Areas/Software Engineering/Design/Building Resilient Idempotent Systems.md",
+    "3 Areas/Software Engineering/Craft/Covariant and Contravariant.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Event Storming.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "Daily Notes/30 Jul 2023.md",
-    "4 Resources/Fleeting Notes.md",
-    "4 Resources/LinkedIn Contents.md",
     "Templates/Fleeting Notes.md",
     "Templates/Daily Template.md",
     "Templates",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "Obsidian.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Go Profiling.md",
@@ -175,12 +180,7 @@
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Microservice Tasklist.md",
-    "2 Projects/Backlogs/Networking Tasklist.md",
     "2 Projects/Backlogs/Engineering Tasklists",
-    "99 Archives/Programming Language Tasklist pt 1.md",
-    "Software Engineering.md",
-    "2 Projects/Backlogs/Infrastructure Tasklist.md",
-    "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "Daily Notes",
     "2 Projects/Backlogs",
     "0 Todos",

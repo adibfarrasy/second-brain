@@ -14,3 +14,9 @@ sorted by difficulties
 # Hard
 [[Linux from Scratch]]
 [[Design My Own Wireless Split Keyboard, in Rust]]
+
+```dataview
+table Difficulty
+from backlogs
+where Difficulty = "Medium"
+```
