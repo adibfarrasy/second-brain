@@ -17,6 +17,7 @@ sorted by difficulties
 
 ```dataview
 table Difficulty
-from backlogs
+from "2 Projects"
 where Difficulty = "Medium"
 ```
+
