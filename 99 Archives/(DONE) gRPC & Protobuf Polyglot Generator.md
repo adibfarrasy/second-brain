@@ -1,3 +1,6 @@
+---
+difficulty: Easy
+---
 HERE’s a project that I’ve done earlier this year. With the introduction of Go as the new programming language on my company’s backend tech stack, the team needed a replacement for the language-specific RPC library; so I took the initiative to create one, using gRPC.
 
 I went one step further, by trying to future-proof it: can my library support any language that gRPC supports? if the team ever decided to add Python or Rust microservice, will we still be able to use this library? “That would be neat”, I thought to myself. And here’s the result - you can check out the repository in the link below:
