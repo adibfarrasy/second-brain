@@ -1,6 +1,6 @@
 ```dataview
 list
-from #todo
-where tags 
+from #todo and -#template
 ```
+
 
