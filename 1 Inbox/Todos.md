@@ -1,4 +1,6 @@
 ```dataview
 list
-from #todo 
+from #todo
+where tags 
 ```
+
