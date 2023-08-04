@@ -13,5 +13,5 @@ tags: todo
 - [ ] practice 1 random basic question 1 last time
 
 # practice software architecture
-- [ ] draw along [[software architecture videos]]
+- [x] draw along [[software architecture videos]]
 - [ ] practice 1 random software architecure question 1 last time 
