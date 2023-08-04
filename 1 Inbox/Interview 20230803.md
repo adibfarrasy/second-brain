@@ -10,7 +10,7 @@ tags: todo
 # practice algorithm questions
 - [x] practice all the basic questions in [[NeetCode roadmap]]
 - [ ] read through Medium level questions and answers
-- [ ] practice 1 random basic question 1 last time
+- [x] practice 1 random basic question 1 last time
 
 # practice software architecture
 - [x] draw along [[software architecture videos]]
