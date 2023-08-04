@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Interview 20230803.md",
+                "file": "99 Archives/Interview 20230803.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Interview 20230803.md",
+                "file": "99 Archives/Interview 20230803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Interview 20230803.md",
+                "file": "99 Archives/Interview 20230803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Interview 20230803.md"
+                "file": "99 Archives/Interview 20230803.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9f08b1400a6fd00",
+  "active": "4fe8c16178042832",
   "lastOpenFiles": [
     "1 Inbox/Todos.md",
-    "1 Inbox/Interview 20230803.md",
+    "99 Archives/Interview 20230803.md",
     "1 Inbox/Event Storming.md",
     "Daily Notes/30 Jul 2023.md",
     "Templates/Fleeting Notes.md",

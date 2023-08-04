@@ -14,4 +14,4 @@ tags: todo
 
 # practice software architecture
 - [x] draw along [[software architecture videos]]
-- [ ] practice 1 random software architecure question 1 last time 
+- [x] practice 1 random software architecure question 1 last time 
