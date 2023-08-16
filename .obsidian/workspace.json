@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note Template.md"
+                "file": "Daily Notes/16 Aug 2023.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "Templates/Fleeting Notes.md",
     "Templates/Daily Note Template.md",
-    "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Daily Notes/16 Aug 2023.md",
+    "Templates/Fleeting Notes.md",
+    "Templates/Software Engineering Interview Preparation {{date}}.md",
     "1 Inbox/Context in Golang.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Event Storming.md",
