@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/16 Aug 2023.md",
+                "file": "Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/16 Aug 2023.md",
+                "file": "Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/16 Aug 2023.md",
+                "file": "Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/16 Aug 2023.md"
+                "file": "Templates/Daily Note Template.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "1 Inbox/Context in Golang.md",
+    "Templates/Fleeting Notes.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Daily Notes/16 Aug 2023.md",
+    "1 Inbox/Context in Golang.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Event Storming.md",
     "1 Inbox/Todos.md",
@@ -167,15 +170,12 @@
     "2 Projects/Backlogs/Infrastructure as Code.md",
     "99 Archives/Interview 20230803.md",
     "Daily Notes/30 Jul 2023.md",
-    "Templates/Fleeting Notes.md",
-    "Templates/Software Engineering Interview Preparation {{date}}.md",
     "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Software Engineering Interview Preparation.md",
     "99 Archives/Programming Language Tasklist pt 1.md",
     "99 Archives/(DONE) My Own Programming Language.md",
     "99 Archives/(DONE) gRPC & Protobuf Polyglot Generator.md",
     "2 Projects/Backlogs/Try NixOS.md",
-    "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
