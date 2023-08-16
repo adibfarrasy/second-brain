@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Context in Golang.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Context in Golang.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Context in Golang.md",
+                "file": "Daily Notes/16 Aug 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Context in Golang.md"
+                "file": "Daily Notes/16 Aug 2023.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
+    "1 Inbox/Context in Golang.md",
+    "Daily Notes/16 Aug 2023.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Event Storming.md",
-    "1 Inbox/Context in Golang.md",
     "1 Inbox/Todos.md",
     "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
@@ -175,7 +176,6 @@
     "99 Archives/(DONE) gRPC & Protobuf Polyglot Generator.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
-    "2 Projects/Backlogs/Security Tasklist.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
