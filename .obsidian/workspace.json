@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/17 Aug 2023.md",
+                "file": "Daily Notes/(20230730) Thursday, 30 Jul 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/17 Aug 2023.md",
+                "file": "Daily Notes/(20230730) Thursday, 30 Jul 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/17 Aug 2023.md",
+                "file": "Daily Notes/(20230730) Thursday, 30 Jul 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/17 Aug 2023.md"
+                "file": "Daily Notes/(20230730) Thursday, 30 Jul 2023.md"
               }
             }
           }
@@ -150,14 +150,16 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
+    "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
+    "Daily Notes/(20230816) Wednesday, 16 Aug 2023.md",
+    "Daily Notes/(20230730) Thursday, 30 Jul 2023.md",
+    "Daily Notes/17 Aug 2023.md",
     "1 Inbox/why I left Agriaku.md",
     "1 Inbox/Todos.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Event Storming.md",
     "1 Inbox/After Wedding Todos.md",
     "3 Areas/Software Engineering/Craft/Context in Golang.md",
-    "Daily Notes/17 Aug 2023.md",
-    "Daily Notes/16 Aug 2023.md",
     "Templates/Daily Note Template.md",
     "Templates/Fleeting Notes.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
@@ -171,11 +173,9 @@
     "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "2 Projects/Backlogs/Infrastructure as Code.md",
     "99 Archives/Interview 20230803.md",
-    "Daily Notes/30 Jul 2023.md",
     "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Software Engineering Interview Preparation.md",
     "99 Archives/Programming Language Tasklist pt 1.md",
-    "99 Archives/(DONE) My Own Programming Language.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
