@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "1 Inbox/Context in Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "1 Inbox/Context in Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "1 Inbox/Context in Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md"
+                "file": "1 Inbox/Context in Golang.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "Daily Notes/17 Aug 2023.md",
     "1 Inbox/why I left Agriaku.md",
+    "Daily Notes/17 Aug 2023.md",
     "Daily Notes/16 Aug 2023.md",
     "Templates/Daily Note Template.md",
     "Templates/Fleeting Notes.md",
