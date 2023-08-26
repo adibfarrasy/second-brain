@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Profiling Linux.md",
+                "file": "3 Areas/Software Engineering/Design/Database Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "normali",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Profiling Linux.md",
+                "file": "3 Areas/Software Engineering/Design/Database Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Profiling Linux.md",
+                "file": "3 Areas/Software Engineering/Design/Database Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Profiling Linux.md"
+                "file": "3 Areas/Software Engineering/Design/Database Normalization.md"
               }
             }
           }
@@ -150,8 +151,8 @@
   },
   "active": "d9f08b1400a6fd00",
   "lastOpenFiles": [
-    "1 Inbox/Todos.md",
     "1 Inbox/Profiling Linux.md",
+    "1 Inbox/Todos.md",
     "1 Inbox/Timeseries DB.md",
     "2 Projects/Backlogs/Go Profiling.md",
     "2 Projects/Backlogs/IoT in Rust.md",
