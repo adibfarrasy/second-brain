@@ -11,8 +11,12 @@
             "id": "492bf9e170dd0df0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md"
+              }
             }
           }
         ],
@@ -143,6 +151,7 @@
   },
   "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
+    "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
     "1 Inbox/Profiling Linux.md",
     "1 Inbox/Todos.md",
@@ -168,7 +177,6 @@
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "2 Projects/Backlogs/Microservice Tasklist.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
-    "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
