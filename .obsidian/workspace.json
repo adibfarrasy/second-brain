@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
+                "file": "1 Inbox/why I left Agriaku.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "left Agr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
+                "file": "1 Inbox/why I left Agriaku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
+                "file": "1 Inbox/why I left Agriaku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/(20230828) Monday, 28 Aug 2023.md"
+                "file": "1 Inbox/why I left Agriaku.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
+    "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
     "1 Inbox/Profiling Linux.md",
@@ -163,7 +164,6 @@
     "1 Inbox/Event Storming.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "99 Archives/Interview 20230803.md",
-    "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "Daily Notes/(20230816) Wednesday, 16 Aug 2023.md",
     "Daily Notes/17 Aug 2023.md",
