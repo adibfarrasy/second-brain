@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Deterministic Backend State Machine.md",
+                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Deterministic Backend State Machine.md",
+                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Deterministic Backend State Machine.md",
+                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Deterministic Backend State Machine.md"
+                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md"
               }
             }
           }
@@ -150,8 +150,17 @@
   },
   "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/IoT in Rust.md",
+    "2 Projects/Backlogs/Try NixOS.md",
+    "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
+    "2 Projects/Backlogs/Security Tasklist.md",
+    "2 Projects/Backlogs/Networking Tasklist.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "2 Projects/Backlogs/Computer Science Tasklist.md",
+    "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
+    "2 Projects/Backlogs/IoT in Rust.md",
     "2 Projects/Backlogs/Microservice Tasklist.md",
     "1 Inbox/why I left Agriaku.md",
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
@@ -161,21 +170,12 @@
     "1 Inbox/Todos.md",
     "1 Inbox/Timeseries DB.md",
     "2 Projects/Backlogs/Go Profiling.md",
-    "2 Projects/Backlogs/Networking Tasklist.md",
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Event Storming.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "99 Archives/Interview 20230803.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "Daily Notes/(20230816) Wednesday, 16 Aug 2023.md",
-    "Daily Notes/17 Aug 2023.md",
-    "3 Areas/Software Engineering/Craft/Context in Golang.md",
-    "Templates/Daily Note Template.md",
-    "Templates/Fleeting Notes.md",
-    "Templates/Software Engineering Interview Preparation {{date}}.md",
-    "2 Projects/Backlogs/Computer Science Tasklist.md",
-    "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
-    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
