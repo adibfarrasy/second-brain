@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "2 Projects/Backlogs/IoT in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "left Agr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "2 Projects/Backlogs/IoT in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md",
+                "file": "2 Projects/Backlogs/IoT in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/why I left Agriaku.md"
+                "file": "2 Projects/Backlogs/IoT in Rust.md"
               }
             }
           }
@@ -151,6 +150,8 @@
   },
   "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/Microservice Tasklist.md",
+    "1 Inbox/why I left Agriaku.md",
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
@@ -167,7 +168,6 @@
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "Daily Notes/(20230816) Wednesday, 16 Aug 2023.md",
     "Daily Notes/17 Aug 2023.md",
-    "1 Inbox/why I left Agriaku.md",
     "3 Areas/Software Engineering/Craft/Context in Golang.md",
     "Templates/Daily Note Template.md",
     "Templates/Fleeting Notes.md",
@@ -175,7 +175,6 @@
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
-    "2 Projects/Backlogs/Microservice Tasklist.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
