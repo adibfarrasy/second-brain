@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#b8bb26",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "theme": "obsidian"
 }
