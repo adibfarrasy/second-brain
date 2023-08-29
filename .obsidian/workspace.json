@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md"
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/Try NixOS.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
+    "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
-    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",

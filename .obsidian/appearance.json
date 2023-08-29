@@ -1,7 +1,7 @@
 {
   "accentColor": "#b8bb26",
-  "textFontFamily": "",
+  "textFontFamily": "JetBrains Mono,Symbols Nerd Font Mono",
   "monospaceFontFamily": "",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "JetBrains Mono,Symbols Nerd Font Mono",
   "theme": "obsidian"
 }
