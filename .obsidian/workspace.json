@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "1 Inbox/Challenging Software Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "1 Inbox/Challenging Software Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "1 Inbox/Challenging Software Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md"
+                "file": "1 Inbox/Challenging Software Projects.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "492bf9e170dd0df0",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "1 Inbox/Challenging Software Projects.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
@@ -175,7 +176,6 @@
     "1 Inbox/Reflect on How Far You've Come.md",
     "99 Archives/Interview 20230803.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
-    "Daily Notes/(20230816) Wednesday, 16 Aug 2023.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
