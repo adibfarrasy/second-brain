@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/AWS Client in Terminal.md"
+                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "49f85bd1aa27bd74",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "1 Inbox/Reflect on How Far You've Come.md",
@@ -171,7 +172,6 @@
     "1 Inbox/Event Storming.md",
     "1 Inbox/Challenging Software Projects.md",
     "1 Inbox/After Wedding Todos.md",
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
