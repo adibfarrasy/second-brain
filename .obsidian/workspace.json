@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49f85bd1aa27bd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Challenging Software Projects.md",
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Challenging Software Projects.md",
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Challenging Software Projects.md"
+                "file": "2 Projects/Backlogs/AWS Client in Terminal.md"
               }
             }
           }
@@ -148,16 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "492bf9e170dd0df0",
+  "active": "49f85bd1aa27bd74",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
-    "1 Inbox/Challenging Software Projects.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Timeseries DB.md",
+    "1 Inbox/Profiling Linux.md",
+    "1 Inbox/Event Storming.md",
+    "1 Inbox/Challenging Software Projects.md",
+    "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
-    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
@@ -167,13 +185,8 @@
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
-    "1 Inbox/Profiling Linux.md",
     "1 Inbox/Todos.md",
-    "1 Inbox/Timeseries DB.md",
     "2 Projects/Backlogs/Go Profiling.md",
-    "1 Inbox/After Wedding Todos.md",
-    "1 Inbox/Event Storming.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "99 Archives/Interview 20230803.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "Templates",
