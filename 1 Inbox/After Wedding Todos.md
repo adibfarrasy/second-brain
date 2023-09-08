@@ -1,4 +1,4 @@
-- [ ] take Mandarin class
+- [x] take Mandarin class
 - [ ] take DevOps class
 - [ ] take driving class
 - [ ] get health insurance

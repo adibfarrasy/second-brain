@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
+                "file": "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
+                "file": "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
+                "file": "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md"
+                "file": "2 Projects/Backlogs/Frontend Web Development Tasklist.md"
               }
             }
           }
@@ -163,16 +163,19 @@
   },
   "active": "49f85bd1aa27bd74",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
+    "3 Areas/Software Engineering/Craft/Context in Golang.md",
+    "1 Inbox/Todos.md",
+    "1 Inbox/Timeseries DB.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Profiling Linux.md",
+    "1 Inbox/Event Storming.md",
+    "1 Inbox/Challenging Software Projects.md",
     "1 Inbox/After Wedding Todos.md",
     "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/Timeseries DB.md",
-    "1 Inbox/Profiling Linux.md",
-    "1 Inbox/Event Storming.md",
-    "1 Inbox/Challenging Software Projects.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
@@ -186,9 +189,6 @@
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "Daily Notes/(20230828) Monday, 28 Aug 2023.md",
     "3 Areas/Software Engineering/Design/Database Normalization.md",
-    "1 Inbox/Todos.md",
-    "2 Projects/Backlogs/Go Profiling.md",
-    "99 Archives/Interview 20230803.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
