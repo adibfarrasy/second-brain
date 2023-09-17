@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "why I",
+                "query": "q",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49f85bd1aa27bd74",
+  "active": "500fd0594138adff",
   "lastOpenFiles": [
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "1 Inbox/Challenging Software Projects.md",
