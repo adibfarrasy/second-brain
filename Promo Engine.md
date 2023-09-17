@@ -1,0 +1,11 @@
+requirements:
+- auth
+- import from LD
+- pagination
+- same functionalities
+	- change history
+	- set rule attributes
+	- segmentations
+	- HTTP APIs
+- simplify
+	- only need coupons, campaigns and segments
