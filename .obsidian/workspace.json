@@ -142,6 +142,16 @@
                 "file": "4 Resources/why I left Agriaku.md"
               }
             }
+          },
+          {
+            "id": "d39a2a93f4b0ed96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -162,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "500fd0594138adff",
+  "active": "49f85bd1aa27bd74",
   "lastOpenFiles": [
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "1 Inbox/Challenging Software Projects.md",
