@@ -4,8 +4,8 @@ requirements:
 - pagination
 - same functionalities
 	- change history
-	- set rule attributes
+	- set rule attributes (need DSL parsing?)
 	- segmentations
-	- HTTP APIs
-- simplify
-	- only need coupons, campaigns and segments
+	- internal HTTP APIs
+- NFR
+	- blazingly fast
