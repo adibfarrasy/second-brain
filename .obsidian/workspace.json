@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "1 Inbox/After Wedding Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "1 Inbox/After Wedding Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Event Storming.md",
+                "file": "1 Inbox/After Wedding Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Event Storming.md"
+                "file": "1 Inbox/After Wedding Todos.md"
               }
             }
           },
@@ -160,18 +160,18 @@
   },
   "active": "5c4099db6fcdca57",
   "lastOpenFiles": [
-    "1 Inbox/Profiling Linux.md",
-    "1 Inbox/Todos.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Event Storming.md",
     "1 Inbox/Timeseries DB.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/Challenging Software Projects.md",
+    "99 Archives/Profiling Linux.md",
+    "1 Inbox/Todos.md",
     "Untitled.canvas",
-    "1 Inbox/Challenging Software Projects.md",
     "4 Resources/why I left Agriaku.md",
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "2 Projects/Backlogs/Go Profiling.md",
     "Daily Notes/(20230908) Friday, 08 Sep 2023.md",
-    "1 Inbox/Event Storming.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
