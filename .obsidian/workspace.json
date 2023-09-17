@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b368366fff2d9d",
+        "id": "0f438a940cee4392",
         "type": "tabs",
         "children": [
           {
-            "id": "492bf9e170dd0df0",
+            "id": "5c4099db6fcdca57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Challenging Software Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49f85bd1aa27bd74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Resources/why I left Agriaku.md",
+                "file": "1 Inbox/Event Storming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Resources/why I left Agriaku.md",
+                "file": "1 Inbox/Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Resources/why I left Agriaku.md",
+                "file": "1 Inbox/Event Storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Resources/why I left Agriaku.md"
+                "file": "1 Inbox/Event Storming.md"
               }
             }
           },
@@ -172,11 +158,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49f85bd1aa27bd74",
+  "active": "5c4099db6fcdca57",
   "lastOpenFiles": [
-    "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
-    "1 Inbox/Challenging Software Projects.md",
+    "1 Inbox/Profiling Linux.md",
+    "1 Inbox/Todos.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Timeseries DB.md",
     "1 Inbox/After Wedding Todos.md",
+    "Untitled.canvas",
+    "1 Inbox/Challenging Software Projects.md",
+    "4 Resources/why I left Agriaku.md",
+    "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
     "2 Projects/Backlogs/Go Profiling.md",
     "Daily Notes/(20230908) Friday, 08 Sep 2023.md",
     "1 Inbox/Event Storming.md",
@@ -189,17 +181,11 @@
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "3 Areas/Software Engineering/Craft/Context in Golang.md",
-    "1 Inbox/Todos.md",
-    "1 Inbox/Timeseries DB.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/Profiling Linux.md",
     "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
     "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
     "2 Projects/Backlogs/Try NixOS.md",
     "2 Projects/Backlogs/Security Tasklist.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
-    "2 Projects/Backlogs/IoT in Rust.md",
-    "2 Projects/Backlogs/Microservice Tasklist.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
@@ -212,7 +198,6 @@
     "2 Projects",
     "3 Areas/Software Engineering/Craft",
     "3 Areas/Software Engineering/Design",
-    "3 Areas/Management",
-    "Untitled.canvas"
+    "3 Areas/Management"
   ]
 }
