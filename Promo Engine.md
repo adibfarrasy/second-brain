@@ -5,6 +5,7 @@ requirements:
 - same functionalities
 	- change history
 	- set rule attributes (need DSL parsing?)
+	- add new rule attributes on-the-fly
 	- segmentations
 	- internal HTTP APIs
 - NFR
