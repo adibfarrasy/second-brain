@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
+                "file": "1 Inbox/Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
+                "file": "1 Inbox/Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
+                "file": "1 Inbox/Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/(20230921) Thursday, 21 Sep 2023.md"
+                "file": "1 Inbox/Todos.md"
               }
             }
           },
@@ -173,15 +173,15 @@
   },
   "active": "081555bfbbdc40ff",
   "lastOpenFiles": [
-    "Promo Engine.md",
-    "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "1 Inbox/Todos.md",
     "1 Inbox/Timeseries DB.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Event Storming.md",
+    "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
+    "Promo Engine.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "1 Inbox/Todos.md",
     "2 Projects/Backlogs/Challenging Software Projects.md",
     "99 Archives/Profiling Linux.md",
     "4 Resources/why I left Agriaku.md",
