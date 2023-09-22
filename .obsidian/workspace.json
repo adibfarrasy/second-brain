@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Todos.md",
+                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Todos.md",
+                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Todos.md",
+                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Todos.md"
+                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md"
               }
             }
           },
@@ -173,15 +173,17 @@
   },
   "active": "081555bfbbdc40ff",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/Infrastructure as Code.md",
+    "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "1 Inbox/Timeseries DB.md",
     "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Event Storming.md",
+    "1 Inbox/After Wedding Todos.md",
+    "1 Inbox/Todos.md",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
     "Promo Engine.md",
     "Untitled.md",
     "Untitled.canvas",
-    "1 Inbox/Todos.md",
     "2 Projects/Backlogs/Challenging Software Projects.md",
     "99 Archives/Profiling Linux.md",
     "4 Resources/why I left Agriaku.md",
@@ -198,8 +200,6 @@
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "3 Areas/Software Engineering/Craft/Context in Golang.md",
     "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
-    "Daily Notes/(20230830) Wednesday, 30 Aug 2023.md",
-    "2 Projects/Backlogs/Try NixOS.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
