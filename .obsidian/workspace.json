@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md",
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Infrastructure Tasklist.md"
+                "file": "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md"
               }
             }
           },
@@ -167,38 +167,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "081555bfbbdc40ff",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/Infrastructure as Code.md",
-    "2 Projects/Backlogs/Infrastructure Tasklist.md",
-    "1 Inbox/Timeseries DB.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/Event Storming.md",
-    "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/Deterministic Backend State Machine.md",
+    "2 Projects/Backlogs/Go Profiling.md",
+    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "1 Inbox/Todos.md",
-    "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
-    "Promo Engine.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "99 Archives/Event Storming.md",
+    "2 Projects/Backlogs/Timeseries DB.md",
+    "4 Resources/Event-Driven Architecture in Golang.md",
     "Untitled.md",
+    "Obsidian.md",
+    "Promo Engine.md",
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "2 Projects/Backlogs/App Engineering Tasklist.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/Infrastructure as Code.md",
+    "2 Projects/Backlogs/Try NixOS.md",
+    "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/Infrastructure Tasklist.md",
+    "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
     "Untitled.canvas",
     "2 Projects/Backlogs/Challenging Software Projects.md",
     "99 Archives/Profiling Linux.md",
     "4 Resources/why I left Agriaku.md",
     "Daily Notes/(20230817) Thursday, 17 Aug 2023.md",
-    "2 Projects/Backlogs/Go Profiling.md",
     "Daily Notes/(20230908) Friday, 08 Sep 2023.md",
-    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
-    "2 Projects/Backlogs/App Engineering Tasklist.md",
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
-    "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
-    "2 Projects/Backlogs/Deterministic Backend State Machine.md",
-    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
-    "3 Areas/Software Engineering/Craft/Context in Golang.md",
-    "Daily Notes/(20230906) Wednesday, 06 Sep 2023.md",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
