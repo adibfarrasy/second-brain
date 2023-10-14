@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae7d6e890aadcc67",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "081555bfbbdc40ff",
+  "active": "ae7d6e890aadcc67",
   "lastOpenFiles": [
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
     "2 Projects/Backlogs/Go Profiling.md",
