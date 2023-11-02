@@ -1,2 +1,5 @@
 - so you wanna use DDD in your project. why?
 - is hexagonal architecture the same/ an offshoot of DDD?
+- is X a thing or many things?
+	- a "claim" or "claims" -> https://www.youtube.com/watch?v=Y0txTmT3k7M at 4:38
+	- 
