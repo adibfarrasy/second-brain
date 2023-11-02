@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Microservice Tasklist.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "q",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Microservice Tasklist.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Microservice Tasklist.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Microservice Tasklist.md"
+                "file": "1 Inbox/Do You Really Know DDD?.md"
               }
             }
           },
@@ -172,14 +172,17 @@
   },
   "active": "5c4099db6fcdca57",
   "lastOpenFiles": [
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Do You Really Know DDD?.md",
+    "4 Resources/LinkedIn Contents.md",
+    "3 Areas/Software Engineering/Craft/Vim Notes.md",
+    "2 Projects/Backlogs/Microservice Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Challenging Software Projects.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/After Wedding Todos.md",
-    "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Todos.md",
     "99 Archives/why I left Agriaku.md",
     "4 Resources/Event-Driven Architecture in Golang.md",
@@ -190,14 +193,11 @@
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Security Tasklist.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
-    "2 Projects/Backlogs/Microservice Tasklist.md",
     "2 Projects/Backlogs/Linux from Scratch.md",
     "2 Projects/Backlogs/IoT in Rust.md",
     "2 Projects/Backlogs/Infrastructure as Code.md",
     "2 Projects/Backlogs/Infrastructure Tasklist.md",
     "2 Projects/Backlogs/Go Profiling.md",
-    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
-    "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",

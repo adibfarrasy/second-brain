@@ -1,0 +1,2 @@
+- so you wanna use DDD in your project. why?
+- is hexagonal architecture the same/ an offshoot of DDD?
