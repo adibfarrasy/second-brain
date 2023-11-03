@@ -7,4 +7,4 @@ difficulty: Easy
 - is it just a set of patterns and terminologies? while this is a massive oversimplification, from my experience it is the most helpful way to think/ talk about it. when every backend engineer knows what the entities(with invariants and value objects) and context boundaries are in a particular software project, you can talk about the behaviors of the application in a more productive way, not limited to data modeling for your particular database/ class/ function/ whatever.
 - is X a thing or many things? Design homophones:  see people using the same word/s for different meanings
 	- a "claim" or "claims" -> https://www.youtube.com/watch?v=Y0txTmT3k7M at 4:38
-	- a "category" or "categories" -> personal exp in Agriaku
+	- overloaded terms, e.g. a "category" or "categories" -> personal exp in Agriaku
