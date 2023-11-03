@@ -1,6 +1,6 @@
 - so you wanna use DDD in your project. why?
 - is hexagonal architecture the same/ an offshoot of DDD? no, hexarch only decouples technical complexity and business complexity, it doesn't say anything about how to design/ tame the business complexity. still, it's a popular choice to pair with DDD due to its relative ease of replacing vendor technologies used within the applications without affecting the domain logic.
-- is DDD the same as separating the data models into aggregates and entities? sort of. 
+- is DDD the same as separating the data models into aggregates and entities? sort of, but data models are more of a byproduct of DDD (or any architectural design, really)
 - is X a thing or many things? Design homophones:  see people using the same word/s for different meanings
 	- a "claim" or "claims" -> https://www.youtube.com/watch?v=Y0txTmT3k7M at 4:38
 	- a "category" or "categories" -> personal exp in Agriaku
