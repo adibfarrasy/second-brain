@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "2 Projects/Backlogs/Networking Tasklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "network",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "2 Projects/Backlogs/Networking Tasklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "2 Projects/Backlogs/Networking Tasklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md"
+                "file": "2 Projects/Backlogs/Networking Tasklist.md"
               }
             }
           },
@@ -172,8 +173,8 @@
   },
   "active": "5c4099db6fcdca57",
   "lastOpenFiles": [
-    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Do You Really Know DDD?.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/After Wedding Todos.md",
     "4 Resources/LinkedIn Contents.md",
     "3 Areas/Software Engineering/Craft/Vim Notes.md",

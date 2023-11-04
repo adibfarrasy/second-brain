@@ -1,5 +1,5 @@
 #todo #engineeringtasklist 
 
 - [ ] network engineering
-    - [ ] watch Networkchuck videos
+    - [x] watch Networkchuck videos
     - [ ] TAKE COMPTIA NETWORK+ CERTIFICATION
