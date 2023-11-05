@@ -170,11 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c4099db6fcdca57",
+  "active": "4fe8c16178042832",
   "lastOpenFiles": [
+    "3 Areas/Networking/Docker Networking.md",
+    "3 Areas/Software Engineering/Craft/Covariant and Contravariant.md",
+    "3 Areas/Software Engineering/Craft/Context in Golang.md",
+    "3 Areas/Networking/Network Hacking.md",
     "3 Areas/Networking",
     "3 Areas/Networking.md",
-    "3 Areas/Networking/Network Hacking.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
@@ -196,8 +199,6 @@
     "2 Projects/Backlogs/Timeseries DB.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Security Tasklist.md",
-    "2 Projects/Backlogs/Linux from Scratch.md",
-    "2 Projects/Backlogs/IoT in Rust.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
@@ -210,7 +211,6 @@
     "0 Todos",
     "2 Projects",
     "3 Areas/Software Engineering/Craft",
-    "3 Areas/Software Engineering/Design",
-    "3 Areas/Management"
+    "3 Areas/Software Engineering/Design"
   ]
 }
