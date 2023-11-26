@@ -1,17 +1,22 @@
 ```dataviewjs
+dv.span("** Activities **")
 const calendarData = {
     entries: [],
 }
 
-for (let page of dv.pages('"Daily Notes"').where(p => p.word_count)) {
+for (let page of dv.pages('"Daily Notes"')) {
     calendarData.entries.push({
-        date: ,
+        date: page.date,
         intensity: page.word_count,
+        intensityScaleEnd: 750,
     })
 }
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
+
+
 
 
 

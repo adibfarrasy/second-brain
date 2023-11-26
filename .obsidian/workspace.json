@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205ab7d6e15f7d17",
+            "id": "f393dd9c458de270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
+                "file": "Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f393dd9c458de270",
+            "id": "e991309bdbae70f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,13 +171,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f393dd9c458de270",
+  "active": "e991309bdbae70f5",
   "lastOpenFiles": [
-    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
+    "Daily Notes/Sunday, 26 Nov 2023.md",
+    "Untitled.md",
     "Templates/Daily Note Template.md",
-    "Templates/Fleeting Notes.md",
+    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
     "Daily Notes Stats.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
+    "Templates/Fleeting Notes.md",
     "Daily Notes/Untitled.md",
     "Daily Notes/test",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
@@ -198,9 +200,7 @@
     "3 Areas/Networking/Network Hacking.md",
     "3 Areas/Networking/Docker Networking.md",
     "3 Areas/Software Engineering/Craft/Covariant and Contravariant.md",
-    "3 Areas/Software Engineering/Craft/Context in Golang.md",
     "3 Areas/Networking",
-    "3 Areas/Networking.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
