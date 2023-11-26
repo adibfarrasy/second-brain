@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-27.md"
+                "file": "Daily Notes/2023-11-26.md"
               }
             }
           },
@@ -173,12 +173,12 @@
   },
   "active": "e991309bdbae70f5",
   "lastOpenFiles": [
-    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-27.md",
-    "Untitled.md",
     "Daily Notes/2023-11-26.md",
-    "Daily Notes/Sunday, 26 Nov 2023.md",
+    "Daily Notes/!Daily Notes Stats.md",
     "Templates/Daily Note Template.md",
+    "Untitled.md",
+    "Daily Notes/Sunday, 26 Nov 2023.md",
     "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Templates/Fleeting Notes.md",
