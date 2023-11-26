@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes Stats.md"
+                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md"
               }
             }
           },
@@ -173,8 +173,11 @@
   },
   "active": "f393dd9c458de270",
   "lastOpenFiles": [
-    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
     "Daily Notes Stats.md",
+    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
+    "Templates/Software Engineering Interview Preparation {{date}}.md",
+    "Templates/Fleeting Notes.md",
+    "Templates/Daily Note Template.md",
     "Daily Notes/Untitled.md",
     "Daily Notes/test",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
@@ -198,9 +201,6 @@
     "3 Areas/Software Engineering/Craft/Context in Golang.md",
     "3 Areas/Networking",
     "3 Areas/Networking.md",
-    "2 Projects/Backlogs/Networking Tasklist.md",
-    "4 Resources/LinkedIn Contents.md",
-    "3 Areas/Software Engineering/Craft/Vim Notes.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
