@@ -1,15 +1,16 @@
-\```dataviewjs
+```dataviewjs
 const calendarData = {
-    entries: [],               
+    entries: [],
 }
 
-//DataviewJS loop
-for (let page of dv.pages('"Daily Notes"').where(p => p.exercise)) {
+for (let page of dv.pages('"Daily Notes"').where(p => p.word_count)) {
     calendarData.entries.push({
-        date: page.file.name,     // (required) Format YYYY-MM-DD
-        intensity: page.exercise, // (required) the data you want to track, will map color intensities automatically
+        date: page.date,
+        intensity: page.word_count,
     })
 }
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
+
