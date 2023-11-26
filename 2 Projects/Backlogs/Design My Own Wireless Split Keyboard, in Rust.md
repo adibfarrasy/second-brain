@@ -4,7 +4,7 @@ difficulty: Hard
 
 #todo 
 
-- [ ] research: how people make wireless keyboards?
+- [x] research: how people make wireless keyboards?
 - [ ] research: how to retrofit Rust to C/C++ code?
 - [ ] 3D print the keyboard body (must have the 3D printer to work first)
 - [ ] learn enough electronics
