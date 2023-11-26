@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes Stats.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes Stats.md"
+                "file": "Daily Notes/!Daily Notes Stats.md"
               }
             }
           },
@@ -173,11 +173,12 @@
   },
   "active": "e991309bdbae70f5",
   "lastOpenFiles": [
-    "Daily Notes/Sunday, 26 Nov 2023.md",
     "Untitled.md",
+    "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-11-26.md",
+    "Daily Notes/Sunday, 26 Nov 2023.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
-    "Daily Notes Stats.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Templates/Fleeting Notes.md",
     "Daily Notes/Untitled.md",
@@ -199,7 +200,6 @@
     "1 Inbox/After Wedding Todos.md",
     "3 Areas/Networking/Network Hacking.md",
     "3 Areas/Networking/Docker Networking.md",
-    "3 Areas/Software Engineering/Craft/Covariant and Contravariant.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
