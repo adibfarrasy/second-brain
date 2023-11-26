@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Daily Notes Stats.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   "active": "f393dd9c458de270",
   "lastOpenFiles": [
     "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
-    "Untitled.md",
+    "Daily Notes Stats.md",
     "Daily Notes/Untitled.md",
     "Daily Notes/test",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
