@@ -11,12 +11,8 @@
             "id": "5c4099db6fcdca57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "5c4099db6fcdca57",
   "lastOpenFiles": [
-    "1 Inbox/Todos.md",
+    "Daily Notes/test",
+    "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
+    "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+    "1 Inbox/Todos.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/Challenging Software Projects.md",
@@ -184,9 +179,6 @@
     "3 Areas/Software Engineering/Craft/Vim Notes.md",
     "2 Projects/Backlogs/Microservice Tasklist.md",
     "99 Archives/why I left Agriaku.md",
-    "4 Resources/Event-Driven Architecture in Golang.md",
-    "3 Areas/Management/The Making of a Manager.md",
-    "3 Areas/Management/The Ideal Team Player.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
@@ -198,7 +190,6 @@
     "2 Projects/Backlogs",
     "0 Todos",
     "2 Projects",
-    "3 Areas/Software Engineering/Craft",
-    "3 Areas/Software Engineering/Design"
+    "3 Areas/Software Engineering/Craft"
   ]
 }
