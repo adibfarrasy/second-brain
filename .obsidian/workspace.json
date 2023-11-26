@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0f438a940cee4392",
+        "id": "8016ba67a0831989",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4099db6fcdca57",
+            "id": "205ab7d6e15f7d17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f393dd9c458de270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -150,8 +171,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c4099db6fcdca57",
+  "active": "f393dd9c458de270",
   "lastOpenFiles": [
+    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
+    "Untitled.md",
+    "Daily Notes/Untitled.md",
     "Daily Notes/test",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
@@ -177,8 +201,6 @@
     "2 Projects/Backlogs/Networking Tasklist.md",
     "4 Resources/LinkedIn Contents.md",
     "3 Areas/Software Engineering/Craft/Vim Notes.md",
-    "2 Projects/Backlogs/Microservice Tasklist.md",
-    "99 Archives/why I left Agriaku.md",
     "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
