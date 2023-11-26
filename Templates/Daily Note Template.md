@@ -1,5 +1,4 @@
-# Morning
-There's nothing here...
-
-# Evening
-There's nothing here...
+---
+date: "{{date}}"
+word_count:
+---
