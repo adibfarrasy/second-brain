@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-27.md",
+                "file": "Daily Notes/2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-27.md"
+                "file": "Daily Notes/2023-11-28.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "e991309bdbae70f5",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-27.md",
+    "Daily Notes/2023-11-28.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-26.md",
-    "Daily Notes/2023-11-27.md",
     "Templates/Daily Note Template.md",
     "Untitled.md",
     "Daily Notes/Sunday, 26 Nov 2023.md",
@@ -199,7 +200,6 @@
     "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/After Wedding Todos.md",
-    "3 Areas/Networking/Network Hacking.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
