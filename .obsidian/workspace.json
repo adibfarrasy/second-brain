@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-28.md",
+                "file": "Daily Notes/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-28.md",
+                "file": "Daily Notes/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-28.md",
+                "file": "Daily Notes/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-28.md"
+                "file": "Daily Notes/2023-11-29.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "f393dd9c458de270",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-28.md",
+    "Daily Notes/2023-11-29.md",
     "Daily Notes/!Daily Notes Stats.md",
     "NeetCode roadmap.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
-    "Daily Notes/2023-11-28.md",
     "Daily Notes/2023-11-27.md",
     "Daily Notes/2023-11-26.md",
     "Templates/Daily Note Template.md",
@@ -186,7 +187,6 @@
     "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
     "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "1 Inbox/Do You Really Know DDD?.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
