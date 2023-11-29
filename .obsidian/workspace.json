@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efda7dd6f9d8b759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md"
+                "file": "1 Inbox/What Does A Scalable Project Look Like?.md"
               }
             }
           },
@@ -158,10 +171,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f393dd9c458de270",
+  "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Do You Really Know DDD?.md",
+    "1 Inbox/What Does A Scalable Project Look Like?.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-30.md",
     "Templates/Daily Note Template.md",
@@ -171,7 +185,6 @@
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Daily Notes/2023-11-27.md",
     "Daily Notes/2023-11-26.md",
-    "Untitled.md",
     "Daily Notes/Sunday, 26 Nov 2023.md",
     "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
     "Templates/Fleeting Notes.md",
