@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-30.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-30.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-30.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-30.md"
+                "file": "1 Inbox/Do You Really Know DDD?.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "f393dd9c458de270",
   "lastOpenFiles": [
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Do You Really Know DDD?.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-30.md",
     "Templates/Daily Note Template.md",
@@ -185,8 +187,6 @@
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
-    "2 Projects/Backlogs/Frontend Web Development Tasklist.md",
-    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
