@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
+                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
+                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Project Look Like?.md",
+                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Project Look Like?.md"
+                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
     "1 Inbox/Do You Really Know DDD?.md",
-    "1 Inbox/What Does A Scalable Project Look Like?.md",
+    "1 Inbox/What Does A Scalable Backend Look Like?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-30.md",
