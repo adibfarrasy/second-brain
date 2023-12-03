@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/What Does A Scalable Backend Look Like?.md"
+                "file": "1 Inbox/Do You Really Know DDD?.md"
               }
             }
           },
@@ -174,13 +174,14 @@
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
     "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/What Does A Scalable Backend Look Like?.md",
+    "4 Resources/LinkedIn Contents.md",
+    "1 Inbox/Do You Really Know DDD?.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-03.md",
-    "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/After Wedding Todos.md",
     "Daily Notes/2023-12-02.md",
     "Daily Notes/2023-12-01.md",
-    "1 Inbox/What Does A Scalable Backend Look Like?.md",
     "Daily Notes/2023-11-30.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-11-29.md",
@@ -199,7 +200,6 @@
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "1 Inbox/Todos.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
-    "2 Projects/Backlogs/AWS Client in Terminal.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
