@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f393dd9c458de270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "efda7dd6f9d8b759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-05.md"
               }
             }
           },
@@ -173,12 +160,13 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "1 Inbox/Do You Really Know DDD?.md",
+    "Daily Notes/2023-12-05.md",
+    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-04.md",
     "1 Inbox/What Does A Scalable Backend Look Like?.md",
-    "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "4 Resources/LinkedIn Contents.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-03.md",
     "1 Inbox/After Wedding Todos.md",
     "Daily Notes/2023-12-02.md",
@@ -199,7 +187,6 @@
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
     "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
-    "1 Inbox/Todos.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
