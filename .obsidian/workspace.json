@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-07.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-06.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-07.md",
+    "Daily Notes/2023-12-06.md",
     "Daily Notes/2023-12-05.md",
     "Daily Notes/2023-12-04.md",
     "1 Inbox/Do You Really Know DDD?.md",
@@ -187,7 +188,6 @@
     "Daily Notes/Untitled.md",
     "Daily Notes/test",
     "Daily Notes/(20230921) Thursday, 21 Sep 2023.md",
-    "Daily Notes/(20230730) Sunday, 30 Jul 2023.md",
     "3 Areas/Networking",
     "Untitled.canvas",
     "Templates",
