@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
+                "file": "Daily Notes/2023-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
+                "file": "Daily Notes/2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
+                "file": "Daily Notes/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Obsidian Heatmap Calendar.md"
+                "file": "Daily Notes/2023-12-08.md"
               }
             }
           },
@@ -160,27 +160,27 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "2 Projects/Backlogs/Networking Tasklist.md",
-    "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
-    "Daily Notes/2023-12-08.md",
-    "Daily Notes/2023-12-07.md",
-    "Daily Notes/2023-11-26.md",
-    "1 Inbox/After Wedding Todos.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
-    "1 Inbox/Do You Really Know DDD?.md",
-    "99 Archives/(DONE) What Does A Scalable Backend Look Like?.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-01.md",
     "Daily Notes/2023-11-30.md",
     "Daily Notes/2023-11-29.md",
     "Daily Notes/2023-11-28.md",
     "Daily Notes/2023-11-27.md",
+    "Daily Notes/2023-11-26.md",
+    "Daily Notes/2023-12-08.md",
     "Daily Notes/2023-12-06.md",
+    "Daily Notes/2023-12-07.md",
+    "Daily Notes/2023-12-02.md",
     "Daily Notes/2023-12-05.md",
+    "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
+    "2 Projects/Backlogs/Networking Tasklist.md",
+    "1 Inbox/After Wedding Todos.md",
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Do You Really Know DDD?.md",
+    "99 Archives/(DONE) What Does A Scalable Backend Look Like?.md",
     "Daily Notes/2023-12-04.md",
     "4 Resources/LinkedIn Contents.md",
     "Daily Notes/2023-12-03.md",
-    "Daily Notes/2023-12-02.md",
     "Templates/Daily Note Template.md",
     "NeetCode roadmap.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
