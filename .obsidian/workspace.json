@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-09.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-08.md",
     "Daily Notes/2023-12-07.md",
+    "Daily Notes/2023-12-08.md",
+    "Daily Notes/2023-12-09.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-01.md",
     "Daily Notes/2023-11-30.md",
@@ -185,7 +186,6 @@
     "NeetCode roadmap.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Daily Notes/Sunday, 26 Nov 2023.md",
-    "Daily Notes/(20231126) Sunday, 26 Nov 2023.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
