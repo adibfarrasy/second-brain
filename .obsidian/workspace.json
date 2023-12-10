@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-10.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-10.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-10.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-10.md"
+                "file": "Daily Notes/!Daily Notes Stats.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-10.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-09.md",
     "Daily Notes/2023-12-07.md",
     "Daily Notes/2023-12-08.md",
