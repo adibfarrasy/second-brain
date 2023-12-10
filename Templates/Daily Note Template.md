@@ -1,4 +1,6 @@
 ---
 date: "{{date}}"
-word_count:
+word_count: 
+mood: 
+health:
 ---
