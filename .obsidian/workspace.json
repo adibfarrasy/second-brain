@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-15.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-14.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-15.md",
+    "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-12.md",
     "Daily Notes/2023-12-11.md",
@@ -185,7 +186,6 @@
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "99 Archives/(DONE) What Does A Scalable Backend Look Like?.md",
-    "Daily Notes/2023-12-04.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
