@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-22.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-22.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-22.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-22.md"
+                "file": "Daily Notes/!Daily Notes Stats.md"
               }
             }
           },
@@ -160,12 +160,12 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-22.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/Timeseries DB.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
-    "Daily Notes/2023-12-22.md",
     "Daily Notes/2023-12-21.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "Daily Notes/!Daily Notes Stats.md",
