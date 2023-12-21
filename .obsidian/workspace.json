@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "Daily Notes/2023-12-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "Daily Notes/2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "Daily Notes/2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md"
+                "file": "Daily Notes/2023-12-22.md"
               }
             }
           },
@@ -160,10 +160,14 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "1 Inbox/Reflect on How Far You've Come.md",
+    "1 Inbox/Do You Really Know DDD?.md",
+    "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/Timeseries DB.md",
+    "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "Daily Notes/2023-12-22.md",
     "Daily Notes/2023-12-21.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-20.md",
     "Daily Notes/2023-12-19.md",
@@ -182,10 +186,6 @@
     "Daily Notes/2023-12-01.md",
     "Daily Notes/2023-11-30.md",
     "Daily Notes/2023-11-29.md",
-    "Daily Notes/2023-11-28.md",
-    "Daily Notes/2023-11-27.md",
-    "Daily Notes/2023-11-26.md",
-    "Daily Notes/2023-12-06.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",

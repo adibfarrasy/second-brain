@@ -6,6 +6,13 @@ difficulty: Medium
 
 alternatively, in Neovim instead of in terminal
 
+reference:
+https://github.com/jpbruinsslot/slack-term
+known limitations:
+- multi-line message
+- huddle
+- emoji maybe?
+
 tentative name: slacker
 
 - [ ] research: create a TUI in Rust
