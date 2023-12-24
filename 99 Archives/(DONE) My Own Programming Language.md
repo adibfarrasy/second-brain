@@ -1,3 +1,4 @@
 ---
 difficulty: Easy
+status: Done
 ---

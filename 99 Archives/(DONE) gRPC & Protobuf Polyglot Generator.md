@@ -1,5 +1,6 @@
 ---
 difficulty: Easy
+status: Done
 ---
 HERE’s a project that I’ve done earlier this year. With the introduction of Go as the new programming language on my company’s backend tech stack, the team needed a replacement for the language-specific RPC library; so I took the initiative to create one, using gRPC.
 

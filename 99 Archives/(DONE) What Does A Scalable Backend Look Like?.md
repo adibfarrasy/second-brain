@@ -1,5 +1,6 @@
 ---
 difficulty: Medium
+status: Done
 ---
 
 As a backend engineer, have you ever been told (or conversely, in the position of telling others) that you must tread with caution whenever you're trying to make a change in a particular function, especially things that involve handling customers' money (e.g. checkout, refund, or invoice)? Does your company have that one or two go-to guy who knows that particular feature inside and out, the ones that you must always consult if you want to contribute a change to that feature? Are those critical functions 2000+ lines long with complex control flow (and poor test coverage)?
