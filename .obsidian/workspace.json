@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "Daily Notes/2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "Daily Notes/2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "Daily Notes/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md"
+                "file": "Daily Notes/2023-12-26.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
     "1 Inbox/Do You Really Know DDD?.md",
+    "Daily Notes/2023-12-26.md",
+    "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
     "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
@@ -185,7 +186,6 @@
     "Daily Notes/2023-12-20.md",
     "Daily Notes/2023-12-19.md",
     "Daily Notes/2023-12-18.md",
-    "Daily Notes/2023-12-17.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
