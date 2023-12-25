@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-25.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-25.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-25.md",
+                "file": "1 Inbox/Do You Really Know DDD?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-25.md"
+                "file": "1 Inbox/Do You Really Know DDD?.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "1 Inbox/After Wedding Todos.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "Daily Notes/2023-12-25.md",
     "4 Resources/Event-Driven Architecture in Golang.md",
     "4 Resources/Fleeting Notes.md",
@@ -171,7 +174,6 @@
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
-    "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/2023-12-22.md",
@@ -184,8 +186,6 @@
     "Daily Notes/2023-12-18.md",
     "Daily Notes/2023-12-17.md",
     "Daily Notes/2023-12-15.md",
-    "Daily Notes/2023-12-14.md",
-    "Daily Notes/2023-12-13.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
