@@ -11,8 +11,12 @@
             "id": "efda7dd6f9d8b759",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-12-25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/2023-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/2023-12-25.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-25.md",
     "4 Resources/Event-Driven Architecture in Golang.md",
     "4 Resources/Fleeting Notes.md",
     "4 Resources/LinkedIn Contents.md",
@@ -177,7 +186,6 @@
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-13.md",
-    "Daily Notes/2023-12-12.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
