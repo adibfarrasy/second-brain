@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
+                "file": "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
+                "file": "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
+                "file": "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets I Need for Backend Engineering LinkedIn Content.md"
+                "file": "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md"
               }
             }
           },
@@ -171,10 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a481bb1f7ac501a",
+  "active": "4fe8c16178042832",
   "lastOpenFiles": [
     "1 Inbox/Do You Really Know DDD?.md",
-    "Assets I Need for Backend Engineering LinkedIn Content.md",
+    "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
     "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
