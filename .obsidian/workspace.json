@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a481bb1f7ac501a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md",
+                "file": "Assets I Need for Backend Engineering LinkedIn Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Do You Really Know DDD?.md"
+                "file": "Assets I Need for Backend Engineering LinkedIn Content.md"
               }
             }
           },
@@ -158,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efda7dd6f9d8b759",
+  "active": "9a481bb1f7ac501a",
   "lastOpenFiles": [
+    "1 Inbox/Do You Really Know DDD?.md",
+    "Assets I Need for Backend Engineering LinkedIn Content.md",
     "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
@@ -174,7 +189,6 @@
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
-    "1 Inbox/Do You Really Know DDD?.md",
     "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/2023-12-22.md",
     "2 Projects/Backlogs/Timeseries DB.md",
@@ -185,7 +199,6 @@
     "Daily Notes/2023-12-19.md",
     "Daily Notes/2023-12-18.md",
     "Daily Notes/2023-12-17.md",
-    "Daily Notes/2023-12-15.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
