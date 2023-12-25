@@ -3,4 +3,4 @@ images:
 - DB
 - queue
 - user devices
-- cache
+- message board (for putting text)
