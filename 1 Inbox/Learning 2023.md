@@ -1,3 +1,3 @@
 What were your best lessons from 2023?
 
-For me, it can be summarized into these two oxymoronic quotes. There were many times when I felt organizations and individuals (including myself) made sub-optimal decisions due to a lack of clarity and/or daunting complexity of a particular initiative. Sometimes, the management made a heavy-handed approach and kill the initiative altogether before even attempting a proof of concept; other times
+For me, it can be summarized into these two paradoxical quotes. There were many times when I felt organizations and individuals (including myself) made sub-optimal decisions due to a lack of clarity and/or daunting complexity of a particular initiative. This is where a more deliberate judgment should come in - there are different levels of granularity where one should favor bias to thinking vs bias to action. Both of these approaches have their downsides, and 
