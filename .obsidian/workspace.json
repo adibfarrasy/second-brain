@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "1 Inbox/Learning 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "1 Inbox/Learning 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "1 Inbox/Learning 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "1 Inbox/Learning 2023.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "Daily Notes/!Daily Notes Stats.md",
+    "1 Inbox/Learning 2023.md",
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-26.md",
     "1 Inbox/Do You Really Know DDD?.md",
@@ -174,7 +176,6 @@
     "99 Archives/What Does A Scalable Backend Look Like?.md",
     "99 Archives/gRPC & Protobuf Polyglot Generator.md",
     "99 Archives/My Own Programming Language.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
@@ -185,7 +186,6 @@
     "Daily Notes/2023-12-21.md",
     "2 Projects/Backlogs/App Engineering Tasklist.md",
     "Daily Notes/2023-12-20.md",
-    "Daily Notes/2023-12-19.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
