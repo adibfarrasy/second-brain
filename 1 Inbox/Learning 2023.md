@@ -1,3 +1,3 @@
 What were your best lessons from 2023?
 
-For me, it can be summarized into these two oxymoronic quotes. As a software engineer, I've been in a position where a particular feature was not prioritized, even though the potential benefit to the business could be massive (to be fair, none of us knew at the time). It just took one engineer to spend their own time aside from  
+For me, it can be summarized into these two oxymoronic quotes. There were many times when I felt organizations and individuals (including myself) made sub-optimal decisions due to a lack of clarity and/or daunting complexity of a particular initiative. Sometimes, the management made a heavy-handed approach and kill the initiative altogether before even attempting a proof of concept; other times
