@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-28.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-27.md",
     "4 Resources/LinkedIn Contents.md",
     "99 Archives/Learning 2023.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-26.md",
     "1 Inbox/Do You Really Know DDD?.md",
@@ -185,7 +186,6 @@
     "2 Projects/Backlogs/Timeseries DB.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "Daily Notes/2023-12-21.md",
-    "2 Projects/Backlogs/App Engineering Tasklist.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
