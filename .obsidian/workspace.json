@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "4 Resources/LinkedIn Contents.md"
               }
             }
           },
@@ -160,16 +160,18 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-28.md",
+    "1 Inbox/Todos.md",
+    "1 Inbox/After Wedding Todos.md",
+    "1 Inbox/Do You Really Know DDD?.md",
+    "99 Archives/Reflect on How Far You've Come.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-27.md",
     "4 Resources/LinkedIn Contents.md",
     "99 Archives/Learning 2023.md",
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-26.md",
-    "1 Inbox/Do You Really Know DDD?.md",
     "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
-    "1 Inbox/After Wedding Todos.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "Daily Notes/2023-12-25.md",
@@ -181,11 +183,9 @@
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
-    "1 Inbox/Reflect on How Far You've Come.md",
     "Daily Notes/2023-12-22.md",
     "2 Projects/Backlogs/Timeseries DB.md",
     "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
-    "Daily Notes/2023-12-21.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
