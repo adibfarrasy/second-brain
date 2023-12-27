@@ -1,3 +1,8 @@
+---
+difficulty: Easy
+status: Done
+---
+
 What were your best lessons from 2023?
 
 For me, it can be summarized into these two paradoxical quotes. There were many times when I felt organizations and individuals (including myself) made sub-optimal decisions due to a lack of clarity and/or daunting complexity of a particular initiative. This is where a more deliberate judgment should come in - there are different levels of granularity where one should favor heavy upfront design vs bias to action. Both of these approaches have their downsides, with real business consequences.

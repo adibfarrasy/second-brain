@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Inbox/Learning 2023.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Inbox/Learning 2023.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Inbox/Learning 2023.md",
+                "file": "4 Resources/LinkedIn Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Inbox/Learning 2023.md"
+                "file": "4 Resources/LinkedIn Contents.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
+    "99 Archives/Learning 2023.md",
+    "4 Resources/LinkedIn Contents.md",
     "Daily Notes/!Daily Notes Stats.md",
-    "1 Inbox/Learning 2023.md",
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-26.md",
     "1 Inbox/Do You Really Know DDD?.md",
@@ -172,7 +173,6 @@
     "Daily Notes/2023-12-25.md",
     "4 Resources/Event-Driven Architecture in Golang.md",
     "4 Resources/Fleeting Notes.md",
-    "4 Resources/LinkedIn Contents.md",
     "99 Archives/What Does A Scalable Backend Look Like?.md",
     "99 Archives/gRPC & Protobuf Polyglot Generator.md",
     "99 Archives/My Own Programming Language.md",
