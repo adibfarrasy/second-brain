@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-29.md",
+                "file": "52 Weeks of Winter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-29.md",
+                "file": "52 Weeks of Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-29.md",
+                "file": "52 Weeks of Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-29.md"
+                "file": "52 Weeks of Winter.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "efda7dd6f9d8b759",
   "lastOpenFiles": [
-    "4 Resources/LinkedIn Contents.md",
     "Daily Notes/2023-12-29.md",
+    "52 Weeks of Winter.md",
+    "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Todos.md",
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
@@ -185,7 +186,6 @@
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
     "Daily Notes/2023-12-22.md",
-    "2 Projects/Backlogs/Timeseries DB.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Untitled.canvas",
