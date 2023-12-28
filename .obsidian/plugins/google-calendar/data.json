@@ -15,7 +15,7 @@
   "importEndOffset": 1,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "",
+  "defaultCalendar": "adibfarrasy@gmail.com",
   "calendarBlackList": [],
   "insertTemplates": [],
   "useDefaultTemplate": false,

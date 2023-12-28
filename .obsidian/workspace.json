@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc3b344a7d32121",
+        "id": "e453430e94d2d0ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2d5a45b639507b86",
+            "id": "f7d646fe5a0f77d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +158,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d5a45b639507b86",
+  "active": "f7d646fe5a0f77d6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
     "Daily Notes/2023-12-29.md",
     "52 Weeks of Winter.md",
     "4 Resources/LinkedIn Contents.md",
@@ -185,10 +188,8 @@
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
     "Daily Notes/2023-12-23.md",
-    "Daily Notes/2023-12-22.md",
     "Daily Notes/test",
     "3 Areas/Networking",
-    "Untitled.canvas",
     "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Assets",
@@ -198,7 +199,6 @@
     "Daily Notes",
     "2 Projects/Backlogs",
     "0 Todos",
-    "2 Projects",
-    "3 Areas/Software Engineering/Craft"
+    "2 Projects"
   ]
 }
