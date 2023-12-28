@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8016ba67a0831989",
+        "id": "cdc3b344a7d32121",
         "type": "tabs",
         "children": [
           {
-            "id": "efda7dd6f9d8b759",
+            "id": "2d5a45b639507b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "52 Weeks of Winter.md",
+                "file": "Daily Notes/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "52 Weeks of Winter.md",
+                "file": "Daily Notes/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "52 Weeks of Winter.md",
+                "file": "Daily Notes/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "52 Weeks of Winter.md"
+                "file": "Daily Notes/2023-12-29.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,7 +158,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efda7dd6f9d8b759",
+  "active": "2d5a45b639507b86",
   "lastOpenFiles": [
     "Daily Notes/2023-12-29.md",
     "52 Weeks of Winter.md",
