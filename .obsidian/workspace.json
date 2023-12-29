@@ -11,12 +11,14 @@
             "id": "c51309eff8d48345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Notes/2023-11-26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0.5067681884765776,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-26.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-26.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-26.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -161,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,12 +179,16 @@
   },
   "active": "c51309eff8d48345",
   "lastOpenFiles": [
-    "Daily Notes/!Daily Notes Stats.md",
-    "Daily Notes/2023-12-30.md",
-    "52 Weeks of Winter.md",
-    "Daily Notes/2023-11-26.md",
-    "Daily Notes/2023-12-11.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "4 Resources/LinkedIn Contents.md",
+    "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
+    "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/Drawing 2023-12-30 06.18.23.excalidraw.md",
+    "Daily Notes/2023-11-26.md",
+    "Daily Notes/2023-12-30.md",
+    "2 Projects/52 Weeks of Winter.md",
+    "Daily Notes/2023-12-11.md",
     "4 Resources/Excalidraw/Drawing 2023-12-29 13.07.26.excalidraw.md",
     "\"4 Resources\"/Excalidraw/Drawing 2023-12-29 13.07.04.excalidraw.md",
     "4 Resources/Excalidraw",
@@ -196,17 +203,13 @@
     "Excalidraw/Drawing 2023-12-29 13.04.46.excalidraw.md",
     "Excalidraw/Drawing 2023-12-29 13.04.45.excalidraw.md",
     "Excalidraw/Drawing 2023-12-29 13.04.06.excalidraw.md",
-    "Untitled.canvas",
     "Daily Notes/2023-12-29.md",
-    "Adib's Wishlist.md",
+    "2 Projects/Adib's Wishlist.md",
     "Daily Notes/2023-12-27.md",
     "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-26.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
     "1 Inbox/Todos.md",
-    "1 Inbox/After Wedding Todos.md",
-    "1 Inbox/Do You Really Know DDD?.md",
-    "99 Archives/Reflect on How Far You've Come.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",

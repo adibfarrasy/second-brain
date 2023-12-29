@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a8af37cdf13de1b7","x":-580,"y":-340,"width":250,"height":60,"type":"text","text":"testicles"},
+		{"id":"73800cb028c7b915","x":-220,"y":-340,"width":400,"height":520,"type":"file","file":"Daily Notes/2023-11-26.md"}
+	],
+	"edges":[
+		{"id":"506c47df5e0b796f","fromNode":"a8af37cdf13de1b7","fromSide":"right","toNode":"73800cb028c7b915","toSide":"left"}
+	]
+}
