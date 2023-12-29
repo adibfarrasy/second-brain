@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d49584798784814d",
+        "id": "36040627ef4c814b",
         "type": "tabs",
         "children": [
           {
-            "id": "c51309eff8d48345",
+            "id": "e686b66eb8f4783a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0.5067681884765776,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c51309eff8d48345",
+  "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.canvas",
+    "Untitled.md",
     "4 Resources/LinkedIn Contents.md",
     "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
     "Daily Notes/!Daily Notes Stats.md",
@@ -209,7 +198,6 @@
     "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-26.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
-    "1 Inbox/Todos.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
