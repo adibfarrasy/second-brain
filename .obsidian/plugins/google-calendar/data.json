@@ -20,7 +20,7 @@
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",
-  "activateDailyNoteAddon": false,
+  "activateDailyNoteAddon": true,
   "dailyNoteDotColor": "#6aa1d8",
   "useWeeklyNotes": false,
   "debugMode": false,

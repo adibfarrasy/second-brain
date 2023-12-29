@@ -11,12 +11,8 @@
             "id": "f7d646fe5a0f77d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +168,9 @@
   },
   "active": "f7d646fe5a0f77d6",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-29.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-26.md",
+    "Daily Notes/2023-12-29.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
@@ -190,7 +184,6 @@
     "Daily Notes/2023-12-27.md",
     "99 Archives/Learning 2023.md",
     "Daily Notes/2023-11-26.md",
-    "Daily Notes/2023-12-26.md",
     "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
