@@ -156,11 +156,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9c5514f1fc0bbad",
+  "active": "7cac9755d185ac6c",
   "lastOpenFiles": [
     "Daily Notes/2023-12-29.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
