@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e453430e94d2d0ee",
+        "id": "d49584798784814d",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d646fe5a0f77d6",
+            "id": "c51309eff8d48345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7d646fe5a0f77d6",
+  "active": "4fe8c16178042832",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-29 13.04.47_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.46_1.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.46_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-29 13.04.06.excalidraw.md",
+    "Untitled.canvas",
+    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-29.md",
     "Adib's Wishlist.md",
     "Daily Notes/2023-12-27.md",
     "Daily Notes/2023-12-28.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-26.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
-    "Excalidraw",
-    "Untitled.canvas",
+    "4 Resources/Excalidraw",
     "52 Weeks of Winter.md",
     "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Todos.md",
@@ -197,13 +196,6 @@
     "2 Projects/Backlogs/AWS Client in Terminal.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "Daily Notes/2023-12-25.md",
-    "4 Resources/Event-Driven Architecture in Golang.md",
-    "4 Resources/Fleeting Notes.md",
-    "99 Archives/What Does A Scalable Backend Look Like?.md",
-    "99 Archives/gRPC & Protobuf Polyglot Generator.md",
-    "99 Archives/My Own Programming Language.md",
-    "Templates/Daily Note Template.md",
-    "Daily Notes/2023-12-24.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
