@@ -3,5 +3,6 @@
   "textFontFamily": "JetBrains Mono,Symbols Nerd Font Mono",
   "monospaceFontFamily": "",
   "interfaceFontFamily": "Source Code Pro",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox"
 }
