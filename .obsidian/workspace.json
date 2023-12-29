@@ -11,8 +11,12 @@
             "id": "f7d646fe5a0f77d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/!Daily Notes Stats.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/!Daily Notes Stats.md"
+              }
             }
           },
           {
@@ -168,9 +176,12 @@
   },
   "active": "f7d646fe5a0f77d6",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-29.md",
+    "Adib's Wishlist.md",
+    "Daily Notes/2023-12-27.md",
+    "Daily Notes/2023-12-28.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-26.md",
-    "Daily Notes/2023-12-29.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
@@ -180,8 +191,6 @@
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "99 Archives/Reflect on How Far You've Come.md",
-    "Daily Notes/2023-12-28.md",
-    "Daily Notes/2023-12-27.md",
     "99 Archives/Learning 2023.md",
     "Daily Notes/2023-11-26.md",
     "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
@@ -195,7 +204,6 @@
     "99 Archives/My Own Programming Language.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2023-12-24.md",
-    "Daily Notes/2023-12-23.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
