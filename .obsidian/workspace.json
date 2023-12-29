@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-30.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-30.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-30.md",
+                "file": "Daily Notes/!Daily Notes Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-30.md"
+                "file": "Daily Notes/!Daily Notes Stats.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "c51309eff8d48345",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-11.md",
+    "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-30.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-11.md",
     "4 Resources/LinkedIn Contents.md",
     "4 Resources/Excalidraw/Drawing 2023-12-29 13.07.26.excalidraw.md",
     "\"4 Resources\"/Excalidraw/Drawing 2023-12-29 13.07.04.excalidraw.md",
@@ -207,7 +208,6 @@
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "99 Archives/Reflect on How Far You've Come.md",
-    "99 Archives/Learning 2023.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
