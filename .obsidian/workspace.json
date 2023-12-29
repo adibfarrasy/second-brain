@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "Daily Notes/2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "Daily Notes/2023-12-30.md"
               }
             }
           },
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +176,10 @@
   },
   "active": "c51309eff8d48345",
   "lastOpenFiles": [
-    "Daily Notes/2023-11-26.md",
-    "Daily Notes/2023-12-30.md",
     "Daily Notes/!Daily Notes Stats.md",
+    "Daily Notes/2023-12-30.md",
+    "52 Weeks of Winter.md",
+    "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-11.md",
     "4 Resources/LinkedIn Contents.md",
     "4 Resources/Excalidraw/Drawing 2023-12-29 13.07.26.excalidraw.md",
@@ -203,7 +203,6 @@
     "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-26.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
-    "52 Weeks of Winter.md",
     "1 Inbox/Todos.md",
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
