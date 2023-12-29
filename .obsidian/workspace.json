@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cac9755d185ac6c",
+  "active": "f7d646fe5a0f77d6",
   "lastOpenFiles": [
     "Daily Notes/2023-12-29.md",
+    "Daily Notes/!Daily Notes Stats.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
@@ -185,7 +186,6 @@
     "1 Inbox/After Wedding Todos.md",
     "1 Inbox/Do You Really Know DDD?.md",
     "99 Archives/Reflect on How Far You've Come.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2023-12-28.md",
     "Daily Notes/2023-12-27.md",
     "99 Archives/Learning 2023.md",
