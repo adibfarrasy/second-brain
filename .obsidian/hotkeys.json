@@ -23,5 +23,14 @@
       ],
       "key": "\\"
     }
+  ],
+  "google-calendar:open-google-calendar-month-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

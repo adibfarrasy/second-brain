@@ -138,14 +138,29 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7cac9755d185ac6c",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9c5514f1fc0bbad",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7d646fe5a0f77d6",
+  "active": "c9c5514f1fc0bbad",
   "lastOpenFiles": [
     "Daily Notes/2023-12-29.md",
     "Excalidraw/Drawing 2023-12-29 06.15.02.excalidraw.md",
