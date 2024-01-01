@@ -4,7 +4,9 @@
 - [ ] get health insurance
 
 ### certification goals
-- [ ] HSK 4
+- [ ] JLPT N4
+- [ ] German certification
 - [ ] SIM
-- [ ] Comptia A+
 - [ ] AWS developer
+- [ ] HSK 4
+- [ ] Comptia A+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/After Wedding Todos.md",
+                "file": "Daily Notes/2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/After Wedding Todos.md",
+                "file": "Daily Notes/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/After Wedding Todos.md",
+                "file": "Daily Notes/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/After Wedding Todos.md"
+                "file": "Daily Notes/2024-01-01.md"
               }
             }
           },
@@ -176,9 +176,13 @@
   },
   "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
-    "2 Projects/Todos.md",
+    "4 Resources/LinkedIn/LinkedIn Contents.md",
+    "Daily Notes/Drawing 2023-12-30 06.18.23.excalidraw.md",
     "Daily Notes/2024-01-01.md",
-    "4 Resources/LinkedIn Contents.md",
+    "4 Resources/LinkedIn/Assets I Need for Backend Engineering LinkedIn Content.md",
+    "4 Resources/LinkedIn",
+    "2 Projects/After Wedding Todos.md",
+    "2 Projects/Todos.md",
     "Templates/Daily Note Template.md",
     "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
     "3 Areas/Software Engineering/Craft/Monads.md",
@@ -188,8 +192,6 @@
     "Daily Notes/2023-12-31.md",
     "Untitled.canvas",
     "Untitled.md",
-    "4 Resources/Assets I Need for Backend Engineering LinkedIn Content.md",
-    "Daily Notes/Drawing 2023-12-30 06.18.23.excalidraw.md",
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-30.md",
     "2 Projects/52 Weeks of Winter.md",
@@ -205,8 +207,6 @@
     "Excalidraw/Drawing 2023-12-29 13.04.47.excalidraw.md",
     "Excalidraw/Drawing 2023-12-29 13.04.46_1.excalidraw.md",
     "Excalidraw/Drawing 2023-12-29 13.04.46_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-29 13.04.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-29 13.04.45.excalidraw.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
@@ -214,7 +214,6 @@
     "Assets",
     "Pasted image 20230730153857.png",
     "Pasted image 20230730152854.png",
-    "2 Projects/Backlogs/Engineering Tasklists",
-    "Daily Notes"
+    "2 Projects/Backlogs/Engineering Tasklists"
   ]
 }
