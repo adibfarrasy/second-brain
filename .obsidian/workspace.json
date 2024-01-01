@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b884f4a98f40e057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Improve Developer Productivity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,11 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b884f4a98f40e057",
+  "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
-    "Pasted image 20240101201747.png",
     "Daily Notes/2024-01-01.md",
+    "dora-core-model-v1.2.2.png",
     "Improve Developer Productivity.md",
+    "Pasted image 20240101201747.png",
     "Daily Notes/2023-12-31.md",
     "4 Resources/LinkedIn/LinkedIn Contents.md",
     "Daily Notes/Drawing 2023-12-30 06.18.23.excalidraw.md",
