@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1315c2abd932646",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,15 +172,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1315c2abd932646",
+  "active": "4fe8c16178042832",
   "lastOpenFiles": [
-    "4 Resources/LinkedIn Contents.md",
+    "Templates/Daily Note Template.md",
     "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
+    "4 Resources/LinkedIn Contents.md",
     "1 Inbox/Todos.md",
     "3 Areas/Software Engineering/Craft/Monads.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2024-01-01.md",
-    "Templates/Daily Note Template.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Templates/Fleeting Notes.md",
     "Daily Notes/2023-12-31.md",
