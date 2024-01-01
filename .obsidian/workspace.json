@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md"
+                "file": "Daily Notes/2024-01-02.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
-    "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
     "3 Areas/Management/Improve Developer Productivity.md",
+    "Daily Notes/2024-01-02.md",
+    "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
     "3 Areas/Management/assets",
     "3 Areas/Management/assets/Pasted image 20240101201747.png",
     "3 Areas/Management/assets/Pasted image 20240101203235.png",
