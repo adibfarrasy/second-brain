@@ -6,4 +6,3 @@ https://dora.dev/research/
 
 What affects individual productivity?
 ![[Pasted image 20240101201747.png]]
-Note: this doesn't directly impact the business  
