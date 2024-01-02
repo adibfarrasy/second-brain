@@ -3,11 +3,20 @@ Goals:
 	- Japanese
 	- German
 - employable hard skills in software engineering
-	- Leetcode (for interview)
+	- LeetCode (for interview)
 	- DDD
 	- Event sourcing
 	- Open source contribution
-- the other basket
-	- selling stuff on Etsy
-	- frontend engineering
+- hard skills in non-engineering side hustles
+	- digital marketing (again)
+	- product design in Figma and Canva
+	- digital illustration
+
+
+| Week | Goal |
+|------|------|
+|      |      |
+|      |      |
+|      |      |
+
 
