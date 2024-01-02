@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/!Daily Notes Stats.md"
+                "file": "3 Areas/Management/Improve Developer Productivity.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
+    "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2024-01-02.md",
     "3 Areas/Management/Improve Developer Productivity.md",
     "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
@@ -193,7 +194,6 @@
     "Templates/Daily Note Template.md",
     "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
     "3 Areas/Software Engineering/Craft/Monads.md",
-    "Daily Notes/!Daily Notes Stats.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
     "Templates/Fleeting Notes.md",
     "Untitled.canvas",
