@@ -4,9 +4,8 @@
 - [ ] smartphone (Samsung Fol)
 - [ ] split keyboard
 - [ ] monitor
-- [ ] desktop setup
+- [ ] PC
 - [ ] laptop stand
 - [ ] bonsai
+- [ ] smartwatch
 - [ ] car
-- [ ] watch
-- [ ] 
