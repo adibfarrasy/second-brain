@@ -1,6 +1,12 @@
 > "money can't buy you happiness"
 
-In order of priority:
-- travel to Japan
-- new phone
-- new 
+- [ ] travel to Japan
+- [ ] smartphone (Samsung Fol)
+- [ ] split keyboard
+- [ ] monitor
+- [ ] desktop setup
+- [ ] laptop stand
+- [ ] bonsai
+- [ ] car
+- [ ] watch
+- [ ] 
