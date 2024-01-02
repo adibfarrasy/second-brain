@@ -7,4 +7,7 @@ Goals:
 	- DDD
 	- Event sourcing
 	- Open source contribution
+- the other basket
+	- selling stuff on Etsy
+	- frontend engineering
 
