@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Resources/Adib's Wishlist.md",
+                "file": "2 Projects/52 Weeks of Winter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Resources/Adib's Wishlist.md",
+                "file": "2 Projects/52 Weeks of Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Resources/Adib's Wishlist.md",
+                "file": "2 Projects/52 Weeks of Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Resources/Adib's Wishlist.md"
+                "file": "2 Projects/52 Weeks of Winter.md"
               }
             }
           },
@@ -174,8 +174,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "e686b66eb8f4783a",
   "lastOpenFiles": [
+    "4 Resources/Adib's Wishlist.md",
     "2 Projects/52 Weeks of Winter.md",
     "Daily Notes/2024-01-03.md",
     "3 Areas/Management/Improve Developer Productivity.md",
@@ -211,7 +212,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2023-12-29 13.04.47_0.excalidraw.md",
     "Excalidraw/Drawing 2023-12-29 13.04.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-29 13.04.46_1.excalidraw.md",
     "Daily Notes/test",
     "3 Areas/Networking",
     "Templates",
