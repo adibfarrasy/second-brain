@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Areas/Management/Improve Developer Productivity.md"
+                "file": "Daily Notes/2024-01-05.md"
               }
             }
           },
@@ -175,8 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "fe3d5ae1103ae6b9",
   "lastOpenFiles": [
+    "3 Areas/Management/Improve Developer Productivity.md",
+    "Daily Notes/2024-01-05.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/52 Weeks of Winter.md",
     "4 Resources/Adib's Wishlist.md",
@@ -184,7 +186,6 @@
     "4 Resources/Excalidraw/Drawing 2024-01-03 14.51.00.excalidraw.md",
     "4 Resources/Excalidraw/Drawing 2024-01-03 10.53.36.excalidraw.md",
     "Daily Notes/2024-01-03.md",
-    "3 Areas/Management/Improve Developer Productivity.md",
     "Daily Notes/!Daily Notes Stats.md",
     "Daily Notes/2024-01-02.md",
     "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
@@ -208,7 +209,6 @@
     "Daily Notes/2023-11-26.md",
     "Daily Notes/2023-12-30.md",
     "Daily Notes/2023-12-11.md",
-    "4 Resources/Excalidraw/Drawing 2023-12-29 13.07.26.excalidraw.md",
     "4 Resources/Excalidraw",
     "\"4 Resources\"/Excalidraw",
     "\"4 Resources\"",
