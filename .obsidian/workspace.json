@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "856737007a251714",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md",
+                "file": "3 Areas/Management/Improve Developer Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/API Testing Tool in Terminal.md"
+                "file": "3 Areas/Management/Improve Developer Productivity.md"
               }
             }
           },
@@ -176,6 +177,7 @@
   },
   "active": "4fe8c16178042832",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "2 Projects/52 Weeks of Winter.md",
     "4 Resources/Adib's Wishlist.md",
     "Daily Notes/2024-01-04.md",
@@ -207,7 +209,6 @@
     "Daily Notes/2023-12-30.md",
     "Daily Notes/2023-12-11.md",
     "4 Resources/Excalidraw/Drawing 2023-12-29 13.07.26.excalidraw.md",
-    "\"4 Resources\"/Excalidraw/Drawing 2023-12-29 13.07.04.excalidraw.md",
     "4 Resources/Excalidraw",
     "\"4 Resources\"/Excalidraw",
     "\"4 Resources\"",
