@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
+                "file": "2 Projects/52 Weeks of Winter/Learn how to make Slack bot and data patching (Azis' way).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
+                "file": "2 Projects/52 Weeks of Winter/Learn how to make Slack bot and data patching (Azis' way).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
+                "file": "2 Projects/52 Weeks of Winter/Learn how to make Slack bot and data patching (Azis' way).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md"
+                "file": "2 Projects/52 Weeks of Winter/Learn how to make Slack bot and data patching (Azis' way).md"
               }
             }
           },
@@ -174,10 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe8c16178042832",
+  "active": "fe3d5ae1103ae6b9",
   "lastOpenFiles": [
-    "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
     "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
+    "2 Projects/52 Weeks of Winter/assets",
+    "2 Projects/52 Weeks of Winter/assets/Pasted image 20240105143344.png",
+    "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
     "2 Projects/52 Weeks of Winter/Research on Etsy, Figma and Canva capabilities..md",
     "2 Projects/52 Weeks of Winter/Learn how to make Slack bot and data patching (Azis' way).md",
     "Daily Notes/!Daily Notes Stats.md",
@@ -207,7 +209,6 @@
     "4 Resources/Excalidraw/Drawing 2024-01-01 10.05.29.excalidraw.md",
     "3 Areas/Software Engineering/Craft/Monads.md",
     "Templates/Software Engineering Interview Preparation {{date}}.md",
-    "Templates/Fleeting Notes.md",
     "Untitled.canvas",
     "4 Resources/Excalidraw",
     "\"4 Resources\"/Excalidraw",
@@ -215,7 +216,6 @@
     "Excalidraw",
     "Daily Notes/test",
     "3 Areas/Networking",
-    "Templates",
     "Assets/Pasted image 20230730153951.png",
     "Pasted image 20230730153857.png",
     "Pasted image 20230730152854.png"
