@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe3d5ae1103ae6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Projects/52 Weeks of Winter/Research on Etsy, Figma and Canva capabilities..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edca04b3dd22671d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Online Store/Selling on Etsy.md",
+                "file": "Daily Notes/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Online Store/Selling on Etsy.md",
+                "file": "Daily Notes/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Online Store/Selling on Etsy.md",
+                "file": "Daily Notes/2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Online Store/Selling on Etsy.md"
+                "file": "Daily Notes/2024-01-07.md"
               }
             }
           },
@@ -189,11 +176,12 @@
   },
   "active": "edca04b3dd22671d",
   "lastOpenFiles": [
-    "2 Projects/Online Store/Idea Bank.md",
-    "2 Projects/Online Store/Selling on Etsy.md",
-    "2 Projects/52 Weeks of Winter/Research on Etsy, Figma and Canva capabilities..md",
-    "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
     "2 Projects/Todos.md",
+    "Daily Notes/2024-01-07.md",
+    "2 Projects/52 Weeks of Winter/Research on Etsy, Figma and Canva capabilities..md",
+    "2 Projects/Online Store/Selling on Etsy.md",
+    "2 Projects/Online Store/Idea Bank.md",
+    "2 Projects/52 Weeks of Winter/Research on language requirements for Japanese companies.md",
     "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
     "2 Projects/Online Store",
     "Daily Notes/!Daily Notes Stats.md",
@@ -216,7 +204,6 @@
     "3 Areas/Backlogs/Computer Science Tasklist.md",
     "3 Areas/Backlogs/Challenging Software Projects.md",
     "3 Areas/Backlogs/API Testing Tool in Terminal.md",
-    "Daily Notes/2024-01-06.md",
     "2 Projects/52 Weeks of Winter/assets",
     "2 Projects/52 Weeks of Winter/assets/Pasted image 20240105143344.png",
     "2 Projects/52 Weeks of Winter",
