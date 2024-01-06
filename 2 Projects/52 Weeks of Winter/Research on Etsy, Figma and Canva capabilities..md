@@ -18,3 +18,5 @@ Apparently it's very popular now (2024) in Etsy
 ## Additional Resources
 ### Tiktok:
 - @brandon.tw
+
+Related: [[Selling on Etsy]]

@@ -15,7 +15,7 @@ Goals:
 
 | Week | Eng  | Side | Lang |
 |------|------|------|------|
-| 1 | ☑ [[Learn how to make Slack bot and data patching (Azis' way)]] | [[Research on Etsy, Figma and Canva capabilities.]] | ☑ [[Research on language requirements for Japanese companies]] |
+| 1 | ☑ [[Learn how to make Slack bot and data patching (Azis' way)]] |☑ [[Research on Etsy, Figma and Canva capabilities.]] | ☑ [[Research on language requirements for Japanese companies]] |
 | 2 | Learn event sourcing from EDA Chapter 5 | Create a habit tracker app in Figma | Research on available online language classes and certifications |
 
 
