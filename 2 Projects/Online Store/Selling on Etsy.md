@@ -2,8 +2,8 @@
 ### Kids
 3+3 = 6
 - Coloring Books [SATURATED]
-- DIY kits [SATURATED]
-- Flash cards
+- DIY kits [LOW SEARCH,SATURATED](https://erank.com/keyword-tool?keywords=diy%20kit&country=USA&source=etsy)
+- Flash cards [SATURATED](https://erank.com/keyword-tool?keywords=flash%20cards&country=USA&source=etsy)
 ### Wedding
 4+1 = 5
 - Planners
@@ -21,6 +21,10 @@
 5+2 = 7
 - T-shirts
 - Keychains
+### Seasonal
+- Valentine's Day
+- Christmas
+- Ramadan
 #### Vote result
 We're gonna prioritize K-Pop Merch with vote **7** 
 
