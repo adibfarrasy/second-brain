@@ -1,7 +1,7 @@
 ## Categories
 ### Kids
 3+3 = 6
-- Coloring Books [SATURATED]
+- Coloring Books [SATURATED](https://erank.com/keyword-tool?keywords=coloring%20book&country=USA&source=etsy)
 - DIY kits [LOW SEARCH,SATURATED](https://erank.com/keyword-tool?keywords=diy%20kit&country=USA&source=etsy)
 - Flash cards [SATURATED](https://erank.com/keyword-tool?keywords=flash%20cards&country=USA&source=etsy)
 ### Wedding
@@ -13,6 +13,9 @@
 1+5 = 6
 + Journals
 + Trackers
+	+ Bill tracker
+	+ Mood tracker
+	+ Reading tracker
 ### General
 2+4 = 6
 - Science
