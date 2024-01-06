@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Create Habit Tracker Mobile App.md"
+                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md"
               }
             }
           },
@@ -176,12 +176,21 @@
   },
   "active": "fe3d5ae1103ae6b9",
   "lastOpenFiles": [
+    "2 Projects/Backlogs/Security Tasklist.md",
+    "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
+    "2 Projects/Backlogs/Networking Tasklist.md",
+    "2 Projects/Backlogs/Linux from Scratch.md",
+    "2 Projects/Backlogs/IoT in Rust.md",
+    "2 Projects/Backlogs/Create Habit Tracker Mobile App.md",
+    "2 Projects/Backlogs/AWS Client in Terminal.md",
+    "2 Projects/Backlogs/Go Profiling.md",
+    "2 Projects/Backlogs/Fullstack Rust + WASM.md",
+    "2 Projects/Backlogs/Do You Really Know DDD?.md",
+    "2 Projects/Backlogs/Create Gym Tracker Mobile App.md",
     "2 Projects/Backlogs/Deterministic Backend State Machine.md",
     "2 Projects/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
-    "2 Projects/Backlogs/Create Gym Tracker Mobile App.md",
     "2 Projects/Backlogs/Computer Science Tasklist.md",
     "2 Projects/Backlogs/Challenging Software Projects.md",
-    "2 Projects/Backlogs/Create Habit Tracker Mobile App.md",
     "2 Projects/Backlogs/API Testing Tool in Terminal.md",
     "Daily Notes/2024-01-06.md",
     "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
@@ -196,19 +205,10 @@
     "3 Areas/Management/Improve Developer Productivity.md",
     "4 Resources/Adib's Wishlist.md",
     "Daily Notes/2024-01-04.md",
-    "4 Resources/Excalidraw/Drawing 2024-01-03 14.51.00.excalidraw.md",
-    "4 Resources/Excalidraw/Drawing 2024-01-03 10.53.36.excalidraw.md",
-    "Daily Notes/2024-01-03.md",
-    "Daily Notes/2024-01-02.md",
     "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
     "3 Areas/Management/assets",
     "3 Areas/Management/assets/Pasted image 20240101201747.png",
     "3 Areas/Management/assets/Pasted image 20240101203235.png",
-    "Daily Notes/2024-01-01.md",
-    "Daily Notes/2023-12-31.md",
-    "4 Resources/LinkedIn/LinkedIn Contents.md",
-    "Daily Notes/Drawing 2023-12-30 06.18.23.excalidraw.md",
-    "4 Resources/LinkedIn/Assets I Need for Backend Engineering LinkedIn Content.md",
     "4 Resources/LinkedIn",
     "Untitled.canvas",
     "4 Resources/Excalidraw",

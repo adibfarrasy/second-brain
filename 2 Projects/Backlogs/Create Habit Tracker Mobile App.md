@@ -1,7 +1,6 @@
 ---
 difficulty: Medium
 ---
-
 #todo #mobile-dev 
 ## Steps:
 1. learn how to use Figma
