@@ -20,6 +20,8 @@
 2+4 = 6
 - Science
 	- what forms? e.g. posters, cards, etc.
+- Japandi wall art
+- Anime poster
 ### K-Pop Merchandise
 5+2 = 7
 - T-shirts
