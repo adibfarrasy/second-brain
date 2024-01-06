@@ -12,3 +12,5 @@ Based on research (as of 6 Jan 2024) of what is the most searched and has little
 ## General
 - Anime poster (but must follow anime trends, which is fine. I can always look at Reddit stats)
 - Japandi wall art
+- Coquette wall art
+##
