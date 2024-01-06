@@ -1,8 +1,8 @@
 ## Categories
 ### Kids
 3+3 = 6
-- Coloring Books
-- DIY kits
+- Coloring Books [SATURATED]
+- DIY kits [SATURATED]
 - Flash cards
 ### Wedding
 4+1 = 5

@@ -7,3 +7,5 @@ Based on research (as of 6 Jan 2024) of what is the most searched and has little
 - BTS stickers
 - BTS merch
 - BTS shirt
+- Stray kids merch
+- Stray kids shirt
