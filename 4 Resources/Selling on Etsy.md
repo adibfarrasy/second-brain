@@ -21,6 +21,13 @@
 5+2 = 7
 - T-shirts
 - Keychains
-
 #### Vote result
-We're gonna prioritize K-Pop Merch with vote 7 
+We're gonna prioritize K-Pop Merch with vote **7** 
+
+## Accounts
+### Erank
+lalalilypretty@gmail.com
+GJkS7.h4KV]2?%8
+### Etsy
+lalalilypretty@gmail.com
+GJkS7.h4KV]2?%8
