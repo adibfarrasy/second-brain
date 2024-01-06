@@ -1,7 +1,6 @@
 ## Categories
 ### Kids
 3+3 = 6
-
 - Coloring Books
 - DIY kits
 - Flash cards
