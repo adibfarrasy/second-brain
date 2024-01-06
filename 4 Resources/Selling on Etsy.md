@@ -12,7 +12,7 @@
 + Trackers
 ### General
 - Science
-	- what forms?
-### K-Pop Merch
+	- what forms? e.g. posters, cards, etc.
+### K-Pop Merchandise
 - T-shirts
 - Keychains
