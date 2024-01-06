@@ -14,3 +14,7 @@ Apparently it's very popular now (2024) in Etsy
 6. add title, description, shipping options, etc.
 7. (optional) can provide own mockups. Need more research on how to use it.
 8. publish on Printify, it should appear on Etsy
+
+## Additional Resources
+### Tiktok:
+- @brandon.tw
