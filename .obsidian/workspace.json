@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Online Store/Idea Bank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbb89f920dd44e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Do I Figma?.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Do I Figma?.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Do I Figma?.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Do I Figma?.md"
+                "file": "3 Areas/Product Design/How Do I Figma?.md"
               }
             }
           },
@@ -187,10 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbb89f920dd44e5a",
+  "active": "edca04b3dd22671d",
   "lastOpenFiles": [
     "2 Projects/Online Store/Idea Bank.md",
-    "How Do I Figma?.md",
+    "3 Areas/Product Design",
+    "3 Areas/Untitled.md",
+    "3 Areas/Product Design/How Do I Figma?.md",
     "2 Projects/Online Store/Selling on Etsy.md",
     "Daily Notes/2024-01-07.md",
     "2 Projects/Todos.md",
@@ -215,8 +204,6 @@
     "3 Areas/Backlogs/Create Gym Tracker Mobile App.md",
     "3 Areas/Backlogs/Deterministic Backend State Machine.md",
     "3 Areas/Backlogs/Design My Own Wireless Split Keyboard, in Rust.md",
-    "3 Areas/Backlogs/Computer Science Tasklist.md",
-    "3 Areas/Backlogs/Challenging Software Projects.md",
     "2 Projects/52 Weeks of Winter/assets",
     "2 Projects/52 Weeks of Winter/assets/Pasted image 20240105143344.png",
     "2 Projects/52 Weeks of Winter",
@@ -230,7 +217,6 @@
     "\"4 Resources\"/Excalidraw",
     "\"4 Resources\"",
     "Excalidraw",
-    "Daily Notes/test",
     "Assets/Pasted image 20230730153951.png",
     "Pasted image 20230730153857.png",
     "Pasted image 20230730152854.png"
