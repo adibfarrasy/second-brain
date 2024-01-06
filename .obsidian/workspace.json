@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
+                "file": "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Projects/Backlogs/Slack Client in Terminal in Rust.md"
+                "file": "2 Projects/52 Weeks of Winter/52 Weeks of Winter.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "fe3d5ae1103ae6b9",
   "lastOpenFiles": [
+    "Test Mermai.md",
+    "2 Projects/Backlogs/Slack Client in Terminal in Rust.md",
     "2 Projects/Backlogs/Security Tasklist.md",
     "2 Projects/Backlogs/Obsidian Heatmap Calendar.md",
     "2 Projects/Backlogs/Networking Tasklist.md",
@@ -203,8 +205,6 @@
     "2 Projects/52 Weeks of Winter",
     "Daily Notes/2024-01-05.md",
     "3 Areas/Management/Improve Developer Productivity.md",
-    "4 Resources/Adib's Wishlist.md",
-    "Daily Notes/2024-01-04.md",
     "3 Areas/Management/assets/dora-core-model-v1.2.2.png",
     "3 Areas/Management/assets",
     "3 Areas/Management/assets/Pasted image 20240101201747.png",
