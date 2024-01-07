@@ -7,6 +7,9 @@ Based on research (as of 6 Jan 2024) of what is the most searched and has few co
 - Cards
 - Quotes
 - Planner
+### Affirmation
+- Cards
+- Positive affirmation cards
 ## K-Pop Merchandise
 - BTS stickers
 - BTS merch
