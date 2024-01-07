@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Areas/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Areas/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Areas/Backlogs/Create Habit Tracker Mobile App.md",
+                "file": "3 Areas/Product Design/How Do I Figma?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Areas/Backlogs/Create Habit Tracker Mobile App.md"
+                "file": "3 Areas/Product Design/How Do I Figma?.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "edca04b3dd22671d",
   "lastOpenFiles": [
+    "3 Areas/Backlogs/Create Habit Tracker Mobile App.md",
     "2 Projects/Todos.md",
     "3 Areas/Product Design/How Do I Figma?.md",
     "2 Projects/Online Store/Idea Bank.md",
@@ -196,7 +197,6 @@
     "3 Areas/Backlogs/Networking Tasklist.md",
     "3 Areas/Backlogs/Linux from Scratch.md",
     "3 Areas/Backlogs/IoT in Rust.md",
-    "3 Areas/Backlogs/Create Habit Tracker Mobile App.md",
     "3 Areas/Backlogs/AWS Client in Terminal.md",
     "3 Areas/Backlogs/Go Profiling.md",
     "3 Areas/Backlogs/Fullstack Rust + WASM.md",

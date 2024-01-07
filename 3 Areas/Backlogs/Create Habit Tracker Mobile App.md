@@ -13,4 +13,3 @@ difficulty: Medium
 6. figure out how to install non-store apps, or
 7. figure out how to publish to app store
 8. publish to app store
-
