@@ -1,0 +1,3 @@
+- [ ] competitor study: book of dreams
+- [ ] competitor study: shadow work
+- [ ] 
