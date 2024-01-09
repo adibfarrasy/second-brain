@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-08.md",
+                "file": "Daily Notes/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-08.md",
+                "file": "Daily Notes/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-08.md",
+                "file": "Daily Notes/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-08.md"
+                "file": "Daily Notes/2024-01-09.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "edca04b3dd22671d",
   "lastOpenFiles": [
-    "3 Areas/Backlogs/Improve Gruvbox color contrast.md",
     "Daily Notes/2024-01-08.md",
+    "Daily Notes/2024-01-09.md",
+    "3 Areas/Backlogs/Improve Gruvbox color contrast.md",
     "2 Projects/Online Store/Expenses.md",
     "2 Projects/Online Store/Idea Bank.md",
     "2 Projects/Online Store/Selling on Etsy.md",
@@ -205,7 +206,6 @@
     "3 Areas/Backlogs/AWS Client in Terminal.md",
     "3 Areas/Backlogs/Go Profiling.md",
     "3 Areas/Backlogs/Fullstack Rust + WASM.md",
-    "3 Areas/Backlogs/Do You Really Know DDD?.md",
     "2 Projects/52 Weeks of Winter/assets",
     "2 Projects/52 Weeks of Winter/assets/Pasted image 20240105143344.png",
     "2 Projects/52 Weeks of Winter",
